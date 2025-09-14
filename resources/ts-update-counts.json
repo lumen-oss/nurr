@@ -1311,6 +1311,10 @@
     {
       "key": "wxml",
       "value": 2
+    },
+    {
+      "key": "rifleconf",
+      "value": 2
     }
   ]
 }

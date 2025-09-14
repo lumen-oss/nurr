@@ -1972,6 +1972,14 @@
     },
     {
       "install_info": {
+        "revision": "b215640ba72a9a8cac6f5d95dbc3d320cb546e13",
+        "url": "https://github.com/purarue/tree-sitter-rifleconf"
+      },
+      "lang": "rifleconf",
+      "tier": 2
+    },
+    {
+      "install_info": {
         "revision": "1a74dc0ed731ad07db39f063e2c5a6fe528cae7f",
         "url": "https://github.com/bamonroe/tree-sitter-rnoweb"
       },
