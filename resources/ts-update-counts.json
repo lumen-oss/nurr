@@ -38,7 +38,7 @@
     },
     {
       "key": "bash",
-      "value": 45
+      "value": 46
     },
     {
       "key": "bass",
@@ -70,11 +70,11 @@
     },
     {
       "key": "c",
-      "value": 46
+      "value": 47
     },
     {
       "key": "c_sharp",
-      "value": 43
+      "value": 44
     },
     {
       "key": "cairo",
@@ -118,7 +118,7 @@
     },
     {
       "key": "cpp",
-      "value": 47
+      "value": 48
     },
     {
       "key": "css",
@@ -162,7 +162,7 @@
     },
     {
       "key": "djot",
-      "value": 35
+      "value": 36
     },
     {
       "key": "dockerfile",
@@ -178,7 +178,7 @@
     },
     {
       "key": "dtd",
-      "value": 39
+      "value": 40
     },
     {
       "key": "earthfile",
@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 57
+      "value": 58
     },
     {
       "key": "eds",
@@ -278,7 +278,7 @@
     },
     {
       "key": "gdscript",
-      "value": 42
+      "value": 43
     },
     {
       "key": "gdshader",
@@ -326,7 +326,7 @@
     },
     {
       "key": "go",
-      "value": 41
+      "value": 42
     },
     {
       "key": "goctl",
@@ -418,7 +418,7 @@
     },
     {
       "key": "html",
-      "value": 38
+      "value": 39
     },
     {
       "key": "html_tags",
@@ -442,7 +442,7 @@
     },
     {
       "key": "idl",
-      "value": 38
+      "value": 39
     },
     {
       "key": "ini",
@@ -462,11 +462,11 @@
     },
     {
       "key": "java",
-      "value": 44
+      "value": 45
     },
     {
       "key": "javascript",
-      "value": 40
+      "value": 41
     },
     {
       "key": "jq",
@@ -478,7 +478,7 @@
     },
     {
       "key": "json",
-      "value": 38
+      "value": 39
     },
     {
       "key": "json5",
@@ -582,11 +582,11 @@
     },
     {
       "key": "markdown",
-      "value": 44
+      "value": 45
     },
     {
       "key": "markdown_inline",
-      "value": 42
+      "value": 43
     },
     {
       "key": "matlab",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 71
+      "value": 72
     },
     {
       "key": "muttrc",
@@ -690,11 +690,11 @@
     },
     {
       "key": "php",
-      "value": 48
+      "value": 49
     },
     {
       "key": "php_only",
-      "value": 52
+      "value": 53
     },
     {
       "key": "phpdoc",
@@ -774,7 +774,7 @@
     },
     {
       "key": "python",
-      "value": 48
+      "value": 50
     },
     {
       "key": "ql",
@@ -794,7 +794,7 @@
     },
     {
       "key": "r",
-      "value": 38
+      "value": 39
     },
     {
       "key": "racket",
@@ -862,7 +862,7 @@
     },
     {
       "key": "rust",
-      "value": 52
+      "value": 53
     },
     {
       "key": "scala",
@@ -874,7 +874,7 @@
     },
     {
       "key": "scheme",
-      "value": 35
+      "value": 36
     },
     {
       "key": "scss",
@@ -930,7 +930,7 @@
     },
     {
       "key": "ssh_config",
-      "value": 33
+      "value": 34
     },
     {
       "key": "starlark",
@@ -946,7 +946,7 @@
     },
     {
       "key": "supercollider",
-      "value": 33
+      "value": 34
     },
     {
       "key": "surface",
@@ -970,7 +970,7 @@
     },
     {
       "key": "systemverilog",
-      "value": 41
+      "value": 42
     },
     {
       "key": "t32",
@@ -994,7 +994,7 @@
     },
     {
       "key": "templ",
-      "value": 52
+      "value": 53
     },
     {
       "key": "terraform",
@@ -1138,7 +1138,7 @@
     },
     {
       "key": "xml",
-      "value": 40
+      "value": 41
     },
     {
       "key": "yaml",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 28
+      "value": 29
     },
     {
       "key": "gren",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 31
+      "value": 32
     },
     {
       "key": "desktop",
-      "value": 21
+      "value": 22
     },
     {
       "key": "cylc",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 27
+      "value": 28
     },
     {
       "key": "brightscript",
