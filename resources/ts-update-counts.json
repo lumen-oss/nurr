@@ -74,7 +74,7 @@
     },
     {
       "key": "c_sharp",
-      "value": 44
+      "value": 45
     },
     {
       "key": "cairo",
@@ -530,7 +530,7 @@
     },
     {
       "key": "latex",
-      "value": 38
+      "value": 40
     },
     {
       "key": "ledger",
@@ -774,7 +774,7 @@
     },
     {
       "key": "python",
-      "value": 50
+      "value": 52
     },
     {
       "key": "ql",
