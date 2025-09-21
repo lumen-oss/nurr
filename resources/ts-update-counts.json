@@ -2,7 +2,7 @@
   "update_counts": [
     {
       "key": "ada",
-      "value": 30
+      "value": 31
     },
     {
       "key": "agda",
@@ -130,7 +130,7 @@
     },
     {
       "key": "cuda",
-      "value": 31
+      "value": 32
     },
     {
       "key": "cue",
@@ -278,7 +278,7 @@
     },
     {
       "key": "gdscript",
-      "value": 43
+      "value": 44
     },
     {
       "key": "gdshader",
@@ -482,7 +482,7 @@
     },
     {
       "key": "json5",
-      "value": 30
+      "value": 31
     },
     {
       "key": "jsonc",
@@ -518,7 +518,7 @@
     },
     {
       "key": "koto",
-      "value": 45
+      "value": 47
     },
     {
       "key": "kusto",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 72
+      "value": 73
     },
     {
       "key": "muttrc",
@@ -886,7 +886,7 @@
     },
     {
       "key": "slint",
-      "value": 40
+      "value": 41
     },
     {
       "key": "smali",
@@ -898,7 +898,7 @@
     },
     {
       "key": "snakemake",
-      "value": 34
+      "value": 35
     },
     {
       "key": "solidity",
@@ -946,7 +946,7 @@
     },
     {
       "key": "supercollider",
-      "value": 34
+      "value": 35
     },
     {
       "key": "surface",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 49
+      "value": 50
     },
     {
       "key": "vhs",
@@ -1122,7 +1122,7 @@
     },
     {
       "key": "wgsl_bevy",
-      "value": 30
+      "value": 31
     },
     {
       "key": "wing",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 29
+      "value": 30
     },
     {
       "key": "gren",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 32
+      "value": 33
     },
     {
       "key": "desktop",
-      "value": 22
+      "value": 23
     },
     {
       "key": "cylc",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 51
+      "value": 52
     },
     {
       "key": "runescript",
