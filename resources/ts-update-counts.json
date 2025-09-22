@@ -182,7 +182,7 @@
     },
     {
       "key": "earthfile",
-      "value": 38
+      "value": 39
     },
     {
       "key": "ebnf",
@@ -578,7 +578,7 @@
     },
     {
       "key": "make",
-      "value": 30
+      "value": 31
     },
     {
       "key": "markdown",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 44
+      "value": 45
     },
     {
       "key": "menhir",
@@ -774,7 +774,7 @@
     },
     {
       "key": "python",
-      "value": 52
+      "value": 53
     },
     {
       "key": "ql",
@@ -1222,7 +1222,7 @@
     },
     {
       "key": "cylc",
-      "value": 4
+      "value": 5
     },
     {
       "key": "sway",
