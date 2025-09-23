@@ -438,7 +438,7 @@
     },
     {
       "key": "hyprlang",
-      "value": 36
+      "value": 37
     },
     {
       "key": "idl",
@@ -1314,6 +1314,10 @@
     },
     {
       "key": "rifleconf",
+      "value": 2
+    },
+    {
+      "key": "snl",
       "value": 2
     }
   ]
