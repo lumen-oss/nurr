@@ -2,7 +2,7 @@
   "update_counts": [
     {
       "key": "ada",
-      "value": 31
+      "value": 32
     },
     {
       "key": "agda",
@@ -118,7 +118,7 @@
     },
     {
       "key": "cpp",
-      "value": 48
+      "value": 49
     },
     {
       "key": "css",
@@ -226,7 +226,7 @@
     },
     {
       "key": "erlang",
-      "value": 46
+      "value": 47
     },
     {
       "key": "facility",
@@ -334,7 +334,7 @@
     },
     {
       "key": "godot_resource",
-      "value": 35
+      "value": 36
     },
     {
       "key": "gomod",
@@ -446,11 +446,11 @@
     },
     {
       "key": "ini",
-      "value": 32
+      "value": 33
     },
     {
       "key": "inko",
-      "value": 44
+      "value": 46
     },
     {
       "key": "ispc",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 73
+      "value": 74
     },
     {
       "key": "muttrc",
@@ -886,7 +886,7 @@
     },
     {
       "key": "slint",
-      "value": 41
+      "value": 42
     },
     {
       "key": "smali",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 41
+      "value": 42
     },
     {
       "key": "squirrel",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 49
+      "value": 50
     },
     {
       "key": "tablegen",
@@ -1162,7 +1162,7 @@
     },
     {
       "key": "powershell",
-      "value": 44
+      "value": 45
     },
     {
       "key": "rescript",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 30
+      "value": 31
     },
     {
       "key": "gren",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 33
+      "value": 34
     },
     {
       "key": "desktop",
-      "value": 23
+      "value": 24
     },
     {
       "key": "cylc",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 28
+      "value": 29
     },
     {
       "key": "brightscript",
@@ -1314,7 +1314,7 @@
     },
     {
       "key": "rifleconf",
-      "value": 2
+      "value": 3
     },
     {
       "key": "snl",
