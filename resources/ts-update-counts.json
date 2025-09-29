@@ -58,7 +58,7 @@
     },
     {
       "key": "bitbake",
-      "value": 30
+      "value": 31
     },
     {
       "key": "blueprint",
@@ -138,7 +138,7 @@
     },
     {
       "key": "d",
-      "value": 35
+      "value": 36
     },
     {
       "key": "dart",
@@ -238,7 +238,7 @@
     },
     {
       "key": "fennel",
-      "value": 34
+      "value": 35
     },
     {
       "key": "fidl",
@@ -278,7 +278,7 @@
     },
     {
       "key": "gdscript",
-      "value": 44
+      "value": 45
     },
     {
       "key": "gdshader",
@@ -306,7 +306,7 @@
     },
     {
       "key": "gleam",
-      "value": 44
+      "value": 45
     },
     {
       "key": "glimmer",
@@ -326,7 +326,7 @@
     },
     {
       "key": "go",
-      "value": 42
+      "value": 43
     },
     {
       "key": "goctl",
@@ -362,7 +362,7 @@
     },
     {
       "key": "groovy",
-      "value": 33
+      "value": 34
     },
     {
       "key": "gstlaunch",
@@ -370,7 +370,7 @@
     },
     {
       "key": "hack",
-      "value": 30
+      "value": 31
     },
     {
       "key": "hare",
@@ -450,7 +450,7 @@
     },
     {
       "key": "inko",
-      "value": 46
+      "value": 47
     },
     {
       "key": "ispc",
@@ -562,7 +562,7 @@
     },
     {
       "key": "luadoc",
-      "value": 29
+      "value": 30
     },
     {
       "key": "luap",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 45
+      "value": 46
     },
     {
       "key": "menhir",
@@ -598,7 +598,7 @@
     },
     {
       "key": "mermaid",
-      "value": 29
+      "value": 30
     },
     {
       "key": "meson",
@@ -654,11 +654,11 @@
     },
     {
       "key": "ocaml",
-      "value": 45
+      "value": 46
     },
     {
       "key": "ocaml_interface",
-      "value": 46
+      "value": 47
     },
     {
       "key": "ocamllex",
@@ -674,7 +674,7 @@
     },
     {
       "key": "pascal",
-      "value": 32
+      "value": 33
     },
     {
       "key": "passwd",
@@ -718,7 +718,7 @@
     },
     {
       "key": "pony",
-      "value": 29
+      "value": 30
     },
     {
       "key": "printf",
@@ -750,7 +750,7 @@
     },
     {
       "key": "prql",
-      "value": 30
+      "value": 31
     },
     {
       "key": "psv",
@@ -814,7 +814,7 @@
     },
     {
       "key": "re2c",
-      "value": 31
+      "value": 32
     },
     {
       "key": "readline",
@@ -846,7 +846,7 @@
     },
     {
       "key": "roc",
-      "value": 39
+      "value": 40
     },
     {
       "key": "ron",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 54
+      "value": 55
     },
     {
       "key": "scfg",
@@ -902,7 +902,7 @@
     },
     {
       "key": "solidity",
-      "value": 37
+      "value": 38
     },
     {
       "key": "soql",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 50
+      "value": 51
     },
     {
       "key": "tablegen",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 50
+      "value": 51
     },
     {
       "key": "vhs",
@@ -1158,7 +1158,7 @@
     },
     {
       "key": "zig",
-      "value": 36
+      "value": 37
     },
     {
       "key": "powershell",
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "fsharp",
-      "value": 15
+      "value": 16
     },
     {
       "key": "ziggy",
@@ -1226,11 +1226,11 @@
     },
     {
       "key": "sway",
-      "value": 4
+      "value": 5
     },
     {
       "key": "nu",
-      "value": 52
+      "value": 53
     },
     {
       "key": "runescript",
@@ -1238,7 +1238,7 @@
     },
     {
       "key": "circom",
-      "value": 1
+      "value": 2
     },
     {
       "key": "ipkg",
@@ -1258,7 +1258,7 @@
     },
     {
       "key": "enforce",
-      "value": 9
+      "value": 10
     },
     {
       "key": "jinja",
@@ -1266,7 +1266,7 @@
     },
     {
       "key": "jinja_inline",
-      "value": 13
+      "value": 14
     },
     {
       "key": "kcl",
@@ -1318,6 +1318,10 @@
     },
     {
       "key": "snl",
+      "value": 2
+    },
+    {
+      "key": "kitty",
       "value": 2
     }
   ]
