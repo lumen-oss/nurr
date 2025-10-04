@@ -2,7 +2,7 @@
   "update_counts": [
     {
       "key": "ada",
-      "value": 32
+      "value": 33
     },
     {
       "key": "agda",
@@ -10,7 +10,7 @@
     },
     {
       "key": "angular",
-      "value": 38
+      "value": 40
     },
     {
       "key": "apex",
@@ -74,7 +74,7 @@
     },
     {
       "key": "c_sharp",
-      "value": 45
+      "value": 46
     },
     {
       "key": "cairo",
@@ -122,7 +122,7 @@
     },
     {
       "key": "css",
-      "value": 38
+      "value": 39
     },
     {
       "key": "csv",
@@ -142,7 +142,7 @@
     },
     {
       "key": "dart",
-      "value": 35
+      "value": 36
     },
     {
       "key": "devicetree",
@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 58
+      "value": 59
     },
     {
       "key": "eds",
@@ -518,7 +518,7 @@
     },
     {
       "key": "koto",
-      "value": 47
+      "value": 48
     },
     {
       "key": "kusto",
@@ -726,7 +726,7 @@
     },
     {
       "key": "prisma",
-      "value": 30
+      "value": 31
     },
     {
       "key": "problog",
@@ -862,7 +862,7 @@
     },
     {
       "key": "rust",
-      "value": 53
+      "value": 54
     },
     {
       "key": "scala",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 42
+      "value": 43
     },
     {
       "key": "squirrel",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 51
+      "value": 52
     },
     {
       "key": "tablegen",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 31
+      "value": 32
     },
     {
       "key": "gren",
@@ -1258,7 +1258,7 @@
     },
     {
       "key": "enforce",
-      "value": 10
+      "value": 11
     },
     {
       "key": "jinja",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 29
+      "value": 30
     },
     {
       "key": "brightscript",
