@@ -10,7 +10,7 @@
     },
     {
       "key": "angular",
-      "value": 40
+      "value": 41
     },
     {
       "key": "apex",
@@ -98,7 +98,7 @@
     },
     {
       "key": "comment",
-      "value": 31
+      "value": 32
     },
     {
       "key": "commonlisp",
@@ -142,7 +142,7 @@
     },
     {
       "key": "dart",
-      "value": 36
+      "value": 37
     },
     {
       "key": "devicetree",
@@ -226,7 +226,7 @@
     },
     {
       "key": "erlang",
-      "value": 47
+      "value": 48
     },
     {
       "key": "facility",
@@ -306,7 +306,7 @@
     },
     {
       "key": "gleam",
-      "value": 45
+      "value": 46
     },
     {
       "key": "glimmer",
@@ -346,7 +346,7 @@
     },
     {
       "key": "gotmpl",
-      "value": 37
+      "value": 38
     },
     {
       "key": "gowork",
@@ -374,7 +374,7 @@
     },
     {
       "key": "hare",
-      "value": 29
+      "value": 30
     },
     {
       "key": "haskell",
@@ -394,7 +394,7 @@
     },
     {
       "key": "helm",
-      "value": 36
+      "value": 37
     },
     {
       "key": "hjson",
@@ -518,7 +518,7 @@
     },
     {
       "key": "koto",
-      "value": 48
+      "value": 49
     },
     {
       "key": "kusto",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 74
+      "value": 75
     },
     {
       "key": "muttrc",
@@ -798,7 +798,7 @@
     },
     {
       "key": "racket",
-      "value": 34
+      "value": 35
     },
     {
       "key": "ralph",
@@ -862,7 +862,7 @@
     },
     {
       "key": "rust",
-      "value": 54
+      "value": 55
     },
     {
       "key": "scala",
@@ -874,7 +874,7 @@
     },
     {
       "key": "scheme",
-      "value": 36
+      "value": 37
     },
     {
       "key": "scss",
@@ -970,7 +970,7 @@
     },
     {
       "key": "systemverilog",
-      "value": 42
+      "value": 43
     },
     {
       "key": "t32",
@@ -1018,7 +1018,7 @@
     },
     {
       "key": "tmux",
-      "value": 31
+      "value": 33
     },
     {
       "key": "todotxt",
@@ -1130,7 +1130,7 @@
     },
     {
       "key": "wit",
-      "value": 34
+      "value": 35
     },
     {
       "key": "xcompose",
@@ -1142,7 +1142,7 @@
     },
     {
       "key": "yaml",
-      "value": 36
+      "value": 37
     },
     {
       "key": "yang",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 32
+      "value": 33
     },
     {
       "key": "gren",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 34
+      "value": 35
     },
     {
       "key": "desktop",
-      "value": 24
+      "value": 25
     },
     {
       "key": "cylc",
@@ -1258,7 +1258,7 @@
     },
     {
       "key": "enforce",
-      "value": 11
+      "value": 12
     },
     {
       "key": "jinja",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 30
+      "value": 31
     },
     {
       "key": "brightscript",
@@ -1322,7 +1322,7 @@
     },
     {
       "key": "kitty",
-      "value": 2
+      "value": 3
     }
   ]
 }
