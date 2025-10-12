@@ -1034,15 +1034,6 @@
     },
     {
       "install_info": {
-        "location": "lua/tree-sitter",
-        "revision": "0d50e9ce5c992fe507743d8641b36125e668aad4",
-        "url": "https://github.com/mistweaverco/kulala.nvim"
-      },
-      "lang": "kulala_http",
-      "tier": 2
-    },
-    {
-      "install_info": {
         "revision": "597efbd7ce9a814bb058f48eabd055b1d1e12145",
         "url": "https://github.com/pfeiferj/tree-sitter-hurl"
       },
