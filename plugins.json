@@ -792,13 +792,6 @@
             "dependencies": []
         },
         {
-            "name": "ahmedkhalf/project.nvim",
-            "shorthand": "project.nvim",
-            "license": "Apache-2.0",
-            "summary": "The superior project management solution for neovim.",
-            "dependencies": []
-        },
-        {
             "name": "HiPhish/rainbow-delimiters.nvim",
             "shorthand": "rainbow-delimiters.nvim",
             "license": "Apache-2.0",
