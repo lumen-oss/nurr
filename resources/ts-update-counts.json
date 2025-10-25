@@ -170,7 +170,7 @@
     },
     {
       "key": "dot",
-      "value": 31
+      "value": 32
     },
     {
       "key": "doxygen",
@@ -338,7 +338,7 @@
     },
     {
       "key": "gomod",
-      "value": 34
+      "value": 35
     },
     {
       "key": "gosum",
@@ -418,7 +418,7 @@
     },
     {
       "key": "html",
-      "value": 39
+      "value": 40
     },
     {
       "key": "html_tags",
@@ -438,11 +438,11 @@
     },
     {
       "key": "hyprlang",
-      "value": 37
+      "value": 39
     },
     {
       "key": "idl",
-      "value": 39
+      "value": 40
     },
     {
       "key": "ini",
@@ -498,7 +498,7 @@
     },
     {
       "key": "julia",
-      "value": 46
+      "value": 47
     },
     {
       "key": "just",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 46
+      "value": 47
     },
     {
       "key": "menhir",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 76
+      "value": 77
     },
     {
       "key": "muttrc",
@@ -690,11 +690,11 @@
     },
     {
       "key": "php",
-      "value": 49
+      "value": 50
     },
     {
       "key": "php_only",
-      "value": 53
+      "value": 54
     },
     {
       "key": "phpdoc",
@@ -934,7 +934,7 @@
     },
     {
       "key": "starlark",
-      "value": 31
+      "value": 32
     },
     {
       "key": "strace",
@@ -1018,7 +1018,7 @@
     },
     {
       "key": "tmux",
-      "value": 34
+      "value": 35
     },
     {
       "key": "todotxt",
@@ -1114,7 +1114,7 @@
     },
     {
       "key": "vue",
-      "value": 32
+      "value": 33
     },
     {
       "key": "wgsl",
@@ -1122,7 +1122,7 @@
     },
     {
       "key": "wgsl_bevy",
-      "value": 31
+      "value": 32
     },
     {
       "key": "wing",
@@ -1218,7 +1218,7 @@
     },
     {
       "key": "desktop",
-      "value": 26
+      "value": 27
     },
     {
       "key": "cylc",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 57
+      "value": 59
     },
     {
       "key": "runescript",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 5
+      "value": 6
     },
     {
       "key": "groq",
@@ -1322,7 +1322,7 @@
     },
     {
       "key": "kitty",
-      "value": 4
+      "value": 5
     },
     {
       "key": "kulala_http",
