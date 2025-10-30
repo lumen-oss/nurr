@@ -42,7 +42,7 @@
     },
     {
       "key": "bass",
-      "value": 29
+      "value": 30
     },
     {
       "key": "beancount",
@@ -94,7 +94,7 @@
     },
     {
       "key": "cmake",
-      "value": 39
+      "value": 40
     },
     {
       "key": "comment",
@@ -458,7 +458,7 @@
     },
     {
       "key": "janet_simple",
-      "value": 34
+      "value": 35
     },
     {
       "key": "java",
@@ -530,7 +530,7 @@
     },
     {
       "key": "latex",
-      "value": 40
+      "value": 41
     },
     {
       "key": "ledger",
@@ -634,7 +634,7 @@
     },
     {
       "key": "ninja",
-      "value": 29
+      "value": 30
     },
     {
       "key": "nix",
@@ -870,7 +870,7 @@
     },
     {
       "key": "scfg",
-      "value": 30
+      "value": 31
     },
     {
       "key": "scheme",
@@ -970,7 +970,7 @@
     },
     {
       "key": "systemverilog",
-      "value": 44
+      "value": 45
     },
     {
       "key": "t32",
@@ -998,7 +998,7 @@
     },
     {
       "key": "terraform",
-      "value": 34
+      "value": 35
     },
     {
       "key": "textproto",
@@ -1250,7 +1250,7 @@
     },
     {
       "key": "slim",
-      "value": 6
+      "value": 7
     },
     {
       "key": "razor",
