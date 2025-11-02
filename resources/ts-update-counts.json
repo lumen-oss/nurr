@@ -10,7 +10,7 @@
     },
     {
       "key": "angular",
-      "value": 41
+      "value": 42
     },
     {
       "key": "apex",
@@ -182,7 +182,7 @@
     },
     {
       "key": "earthfile",
-      "value": 39
+      "value": 40
     },
     {
       "key": "ebnf",
@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 59
+      "value": 60
     },
     {
       "key": "eds",
@@ -282,7 +282,7 @@
     },
     {
       "key": "gdshader",
-      "value": 32
+      "value": 33
     },
     {
       "key": "git_config",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 47
+      "value": 48
     },
     {
       "key": "menhir",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 77
+      "value": 78
     },
     {
       "key": "muttrc",
@@ -1162,7 +1162,7 @@
     },
     {
       "key": "powershell",
-      "value": 45
+      "value": 46
     },
     {
       "key": "rescript",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 36
+      "value": 37
     },
     {
       "key": "desktop",
-      "value": 27
+      "value": 28
     },
     {
       "key": "cylc",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 31
+      "value": 32
     },
     {
       "key": "brightscript",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 4
+      "value": 5
     },
     {
       "key": "sproto",
