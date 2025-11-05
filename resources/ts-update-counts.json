@@ -190,7 +190,7 @@
     },
     {
       "key": "ecma",
-      "value": 32
+      "value": 33
     },
     {
       "key": "editorconfig",
@@ -1034,7 +1034,7 @@
     },
     {
       "key": "tsx",
-      "value": 36
+      "value": 37
     },
     {
       "key": "turtle",
@@ -1046,7 +1046,7 @@
     },
     {
       "key": "typescript",
-      "value": 37
+      "value": 38
     },
     {
       "key": "typespec",
