@@ -774,7 +774,7 @@
     },
     {
       "key": "python",
-      "value": 55
+      "value": 56
     },
     {
       "key": "ql",
@@ -1327,6 +1327,10 @@
     {
       "key": "kulala_http",
       "value": 1
+    },
+    {
+      "key": "zsh",
+      "value": 2
     }
   ]
 }

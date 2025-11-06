@@ -2780,6 +2780,14 @@
       },
       "lang": "ziggy_schema",
       "tier": 2
+    },
+    {
+      "install_info": {
+        "revision": "v0.34.0",
+        "url": "https://github.com/georgeharker/tree-sitter-zsh"
+      },
+      "lang": "zsh",
+      "tier": 1
     }
   ]
 }
