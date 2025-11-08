@@ -22,7 +22,7 @@
     },
     {
       "key": "asm",
-      "value": 31
+      "value": 32
     },
     {
       "key": "astro",
@@ -146,7 +146,7 @@
     },
     {
       "key": "devicetree",
-      "value": 33
+      "value": 34
     },
     {
       "key": "dhall",
@@ -282,7 +282,7 @@
     },
     {
       "key": "gdshader",
-      "value": 33
+      "value": 34
     },
     {
       "key": "git_config",
@@ -370,7 +370,7 @@
     },
     {
       "key": "hack",
-      "value": 31
+      "value": 32
     },
     {
       "key": "hare",
@@ -438,7 +438,7 @@
     },
     {
       "key": "hyprlang",
-      "value": 39
+      "value": 40
     },
     {
       "key": "idl",
@@ -518,7 +518,7 @@
     },
     {
       "key": "koto",
-      "value": 49
+      "value": 50
     },
     {
       "key": "kusto",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 48
+      "value": 49
     },
     {
       "key": "menhir",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 78
+      "value": 79
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 64
+      "value": 65
     },
     {
       "key": "nqc",
@@ -662,7 +662,7 @@
     },
     {
       "key": "ocamllex",
-      "value": 32
+      "value": 33
     },
     {
       "key": "odin",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 44
+      "value": 45
     },
     {
       "key": "squirrel",
@@ -994,7 +994,7 @@
     },
     {
       "key": "templ",
-      "value": 53
+      "value": 54
     },
     {
       "key": "terraform",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 5
+      "value": 6
     },
     {
       "key": "sproto",
@@ -1330,7 +1330,7 @@
     },
     {
       "key": "zsh",
-      "value": 2
+      "value": 3
     }
   ]
 }
