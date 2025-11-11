@@ -246,6 +246,13 @@
             "license": "MIT"
         },
         {
+            "name": "echasnovski/mini.clue",
+            "shorthand": "mini.clue",
+            "dependencies": [],
+            "summary": "Show next key clues (like which-key). Part of the mini.nvim suite.",
+            "license": "MIT"
+        },
+        {
             "name": "echasnovski/mini.deps",
             "shorthand": "mini.deps",
             "dependencies": [],
