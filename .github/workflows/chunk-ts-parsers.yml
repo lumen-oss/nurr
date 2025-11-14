@@ -33,6 +33,6 @@ jobs:
             JSON_PAYLOAD=$(jq -nc --argjson data "$PAYLOAD" '{"event_type":"chunked_publish_ts","client_payload":$data}')
             curl -X POST -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
             -H "Accept: application/vnd.github+json" \
-            "https://api.github.com/repos/nvim-neorocks/nurr/dispatches" \
+            "https://api.github.com/repositories/765873846/dispatches" \
             -d "$JSON_PAYLOAD"
           done
