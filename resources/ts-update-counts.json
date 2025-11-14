@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 45
+      "value": 47
     },
     {
       "key": "squirrel",
@@ -1330,7 +1330,7 @@
     },
     {
       "key": "zsh",
-      "value": 3
+      "value": 5
     }
   ]
 }
