@@ -810,7 +810,7 @@
     },
     {
       "key": "rbs",
-      "value": 31
+      "value": 33
     },
     {
       "key": "re2c",
@@ -858,7 +858,7 @@
     },
     {
       "key": "ruby",
-      "value": 35
+      "value": 36
     },
     {
       "key": "rust",
