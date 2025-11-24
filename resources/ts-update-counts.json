@@ -10,7 +10,7 @@
     },
     {
       "key": "angular",
-      "value": 42
+      "value": 43
     },
     {
       "key": "apex",
@@ -446,7 +446,7 @@
     },
     {
       "key": "ini",
-      "value": 33
+      "value": 34
     },
     {
       "key": "inko",
@@ -482,7 +482,7 @@
     },
     {
       "key": "json5",
-      "value": 31
+      "value": 32
     },
     {
       "key": "jsonc",
@@ -518,7 +518,7 @@
     },
     {
       "key": "koto",
-      "value": 50
+      "value": 51
     },
     {
       "key": "kusto",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 50
+      "value": 51
     },
     {
       "key": "menhir",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 80
+      "value": 81
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 65
+      "value": 66
     },
     {
       "key": "nqc",
@@ -790,7 +790,7 @@
     },
     {
       "key": "query",
-      "value": 44
+      "value": 45
     },
     {
       "key": "r",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 47
+      "value": 48
     },
     {
       "key": "squirrel",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 56
+      "value": 57
     },
     {
       "key": "tablegen",
@@ -1110,7 +1110,7 @@
     },
     {
       "key": "vimdoc",
-      "value": 35
+      "value": 36
     },
     {
       "key": "vue",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 7
+      "value": 8
     },
     {
       "key": "sproto",
@@ -1330,7 +1330,7 @@
     },
     {
       "key": "zsh",
-      "value": 5
+      "value": 6
     }
   ]
 }
