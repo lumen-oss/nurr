@@ -10,7 +10,7 @@
     },
     {
       "key": "angular",
-      "value": 43
+      "value": 44
     },
     {
       "key": "apex",
@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 60
+      "value": 61
     },
     {
       "key": "eds",
@@ -210,7 +210,7 @@
     },
     {
       "key": "elm",
-      "value": 35
+      "value": 36
     },
     {
       "key": "elsa",
@@ -282,7 +282,7 @@
     },
     {
       "key": "gdshader",
-      "value": 37
+      "value": 38
     },
     {
       "key": "git_config",
@@ -306,7 +306,7 @@
     },
     {
       "key": "gleam",
-      "value": 46
+      "value": 47
     },
     {
       "key": "glimmer",
@@ -378,7 +378,7 @@
     },
     {
       "key": "haskell",
-      "value": 36
+      "value": 37
     },
     {
       "key": "haskell_persistent",
@@ -442,7 +442,7 @@
     },
     {
       "key": "idl",
-      "value": 40
+      "value": 41
     },
     {
       "key": "ini",
@@ -690,11 +690,11 @@
     },
     {
       "key": "php",
-      "value": 50
+      "value": 51
     },
     {
       "key": "php_only",
-      "value": 54
+      "value": 55
     },
     {
       "key": "phpdoc",
@@ -790,7 +790,7 @@
     },
     {
       "key": "query",
-      "value": 45
+      "value": 46
     },
     {
       "key": "r",
@@ -818,7 +818,7 @@
     },
     {
       "key": "readline",
-      "value": 30
+      "value": 31
     },
     {
       "key": "regex",
@@ -1110,7 +1110,7 @@
     },
     {
       "key": "vimdoc",
-      "value": 36
+      "value": 37
     },
     {
       "key": "vue",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 38
+      "value": 39
     },
     {
       "key": "desktop",
-      "value": 29
+      "value": 30
     },
     {
       "key": "cylc",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 6
+      "value": 7
     },
     {
       "key": "groq",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 8
+      "value": 9
     },
     {
       "key": "sproto",
