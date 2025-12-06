@@ -10,7 +10,7 @@
     },
     {
       "key": "angular",
-      "value": 46
+      "value": 47
     },
     {
       "key": "apex",
@@ -210,7 +210,7 @@
     },
     {
       "key": "elm",
-      "value": 36
+      "value": 37
     },
     {
       "key": "elsa",
@@ -258,7 +258,7 @@
     },
     {
       "key": "forth",
-      "value": 29
+      "value": 30
     },
     {
       "key": "fortran",
@@ -450,7 +450,7 @@
     },
     {
       "key": "inko",
-      "value": 51
+      "value": 52
     },
     {
       "key": "ispc",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 81
+      "value": 82
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 66
+      "value": 67
     },
     {
       "key": "nqc",
@@ -994,7 +994,7 @@
     },
     {
       "key": "templ",
-      "value": 54
+      "value": 55
     },
     {
       "key": "terraform",
@@ -1162,7 +1162,7 @@
     },
     {
       "key": "powershell",
-      "value": 46
+      "value": 47
     },
     {
       "key": "rescript",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 39
+      "value": 40
     },
     {
       "key": "desktop",
-      "value": 30
+      "value": 31
     },
     {
       "key": "cylc",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 7
+      "value": 8
     },
     {
       "key": "groq",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 9
+      "value": 10
     },
     {
       "key": "sproto",
