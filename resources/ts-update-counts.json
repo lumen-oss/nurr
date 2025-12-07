@@ -38,7 +38,7 @@
     },
     {
       "key": "bash",
-      "value": 46
+      "value": 47
     },
     {
       "key": "bass",
@@ -62,7 +62,7 @@
     },
     {
       "key": "blueprint",
-      "value": 30
+      "value": 31
     },
     {
       "key": "bp",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 50
+      "value": 52
     },
     {
       "key": "fsh",
@@ -274,7 +274,7 @@
     },
     {
       "key": "fusion",
-      "value": 29
+      "value": 30
     },
     {
       "key": "gdscript",
@@ -450,7 +450,7 @@
     },
     {
       "key": "inko",
-      "value": 52
+      "value": 53
     },
     {
       "key": "ispc",
@@ -478,7 +478,7 @@
     },
     {
       "key": "json",
-      "value": 39
+      "value": 40
     },
     {
       "key": "json5",
@@ -486,7 +486,7 @@
     },
     {
       "key": "jsonc",
-      "value": 29
+      "value": 30
     },
     {
       "key": "jsonnet",

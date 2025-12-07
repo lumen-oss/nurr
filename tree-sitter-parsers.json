@@ -86,7 +86,7 @@
     },
     {
       "install_info": {
-        "revision": "20f55fb9663568f16ebceaac7673d2aa530add46",
+        "revision": "a06c2e4415e9bc0346c6b86d401879ffb44058f7",
         "url": "https://github.com/tree-sitter/tree-sitter-bash"
       },
       "lang": "bash",
@@ -138,14 +138,6 @@
         "url": "https://github.com/EmranMR/tree-sitter-blade"
       },
       "lang": "blade",
-      "tier": 2
-    },
-    {
-      "install_info": {
-        "revision": "355ef84ef8a958ac822117b652cf4d49bac16c79",
-        "url": "https://gitlab.com/gabmus/tree-sitter-blueprint"
-      },
-      "lang": "blueprint",
       "tier": 2
     },
     {
@@ -608,7 +600,7 @@
     },
     {
       "install_info": {
-        "revision": "8334abca785db3a041292e3b3b818a82a55b238f",
+        "revision": "d0d1bc84c43870788c1b402f2e6b490b27257f9e",
         "url": "https://github.com/stadelmanma/tree-sitter-fortran"
       },
       "lang": "fortran",
@@ -637,14 +629,6 @@
         "url": "https://github.com/tree-sitter-grammars/tree-sitter-func"
       },
       "lang": "func",
-      "tier": 2
-    },
-    {
-      "install_info": {
-        "revision": "19db2f47ba4c3a0f6238d4ae0e2abfca16e61dd6",
-        "url": "https://gitlab.com/jirgn/tree-sitter-fusion"
-      },
-      "lang": "fusion",
       "tier": 2
     },
     {
@@ -1074,11 +1058,11 @@
     },
     {
       "install_info": {
-        "revision": "fc37d05c363ccf7f515354c5a47d72b2d3ff555e",
+        "revision": "v0.4.0",
         "url": "https://github.com/inko-lang/tree-sitter-inko"
       },
       "lang": "inko",
-      "tier": 2
+      "tier": 1
     },
     {
       "install_info": {
@@ -1180,17 +1164,6 @@
         "url": "https://github.com/Joakker/tree-sitter-json5"
       },
       "lang": "json5",
-      "tier": 2
-    },
-    {
-      "install_info": {
-        "revision": "02b01653c8a1c198ae7287d566efa86a135b30d5",
-        "url": "https://gitlab.com/WhyNotHugo/tree-sitter-jsonc"
-      },
-      "lang": "jsonc",
-      "requires": [
-        "json"
-      ],
       "tier": 2
     },
     {
