@@ -278,7 +278,7 @@
     },
     {
       "key": "gdscript",
-      "value": 45
+      "value": 46
     },
     {
       "key": "gdshader",
@@ -346,7 +346,7 @@
     },
     {
       "key": "gotmpl",
-      "value": 39
+      "value": 40
     },
     {
       "key": "gowork",
@@ -378,7 +378,7 @@
     },
     {
       "key": "haskell",
-      "value": 37
+      "value": 38
     },
     {
       "key": "haskell_persistent",
@@ -394,7 +394,7 @@
     },
     {
       "key": "helm",
-      "value": 38
+      "value": 39
     },
     {
       "key": "hjson",
@@ -446,7 +446,7 @@
     },
     {
       "key": "ini",
-      "value": 34
+      "value": 35
     },
     {
       "key": "inko",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 82
+      "value": 83
     },
     {
       "key": "muttrc",
@@ -886,7 +886,7 @@
     },
     {
       "key": "slint",
-      "value": 42
+      "value": 43
     },
     {
       "key": "smali",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 48
+      "value": 49
     },
     {
       "key": "squirrel",
@@ -1110,7 +1110,7 @@
     },
     {
       "key": "vimdoc",
-      "value": 37
+      "value": 38
     },
     {
       "key": "vue",
@@ -1162,7 +1162,7 @@
     },
     {
       "key": "powershell",
-      "value": 47
+      "value": 48
     },
     {
       "key": "rescript",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 40
+      "value": 41
     },
     {
       "key": "desktop",
-      "value": 31
+      "value": 32
     },
     {
       "key": "cylc",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 59
+      "value": 60
     },
     {
       "key": "runescript",
@@ -1286,11 +1286,11 @@
     },
     {
       "key": "javadoc",
-      "value": 33
+      "value": 34
     },
     {
       "key": "brightscript",
-      "value": 2
+      "value": 3
     },
     {
       "key": "c3",
