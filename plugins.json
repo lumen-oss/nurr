@@ -470,6 +470,13 @@
             "license": "MIT"
         },
         {
+            "name": "echasnovski/mini.cmdline",
+            "shorthand": "mini.cmdline",
+            "dependencies": [],
+            "summary": "Neovim command line tweaks. Part of the mini.nvim suite.",
+            "license": "MIT"
+        },
+        {
             "name": "jackMort/ChatGPT.nvim",
             "shorthand": "ChatGPT.nvim",
             "license": "Apache-2.0",
