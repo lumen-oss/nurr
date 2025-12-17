@@ -2,7 +2,7 @@
   "update_counts": [
     {
       "key": "ada",
-      "value": 34
+      "value": 35
     },
     {
       "key": "agda",
@@ -98,7 +98,7 @@
     },
     {
       "key": "comment",
-      "value": 32
+      "value": 33
     },
     {
       "key": "commonlisp",
@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 61
+      "value": 62
     },
     {
       "key": "eds",
@@ -210,7 +210,7 @@
     },
     {
       "key": "elm",
-      "value": 37
+      "value": 38
     },
     {
       "key": "elsa",
@@ -498,7 +498,7 @@
     },
     {
       "key": "julia",
-      "value": 49
+      "value": 50
     },
     {
       "key": "just",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 84
+      "value": 85
     },
     {
       "key": "muttrc",
@@ -698,7 +698,7 @@
     },
     {
       "key": "phpdoc",
-      "value": 31
+      "value": 32
     },
     {
       "key": "pioasm",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 57
+      "value": 58
     },
     {
       "key": "tablegen",
@@ -1054,7 +1054,7 @@
     },
     {
       "key": "typoscript",
-      "value": 30
+      "value": 32
     },
     {
       "key": "typst",
@@ -1106,11 +1106,11 @@
     },
     {
       "key": "vim",
-      "value": 37
+      "value": 38
     },
     {
       "key": "vimdoc",
-      "value": 38
+      "value": 39
     },
     {
       "key": "vue",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 41
+      "value": 42
     },
     {
       "key": "desktop",
-      "value": 32
+      "value": 33
     },
     {
       "key": "cylc",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 60
+      "value": 61
     },
     {
       "key": "runescript",
@@ -1274,7 +1274,7 @@
     },
     {
       "key": "tera",
-      "value": 8
+      "value": 9
     },
     {
       "key": "blade",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 8
+      "value": 9
     },
     {
       "key": "groq",
@@ -1330,7 +1330,7 @@
     },
     {
       "key": "zsh",
-      "value": 9
+      "value": 10
     }
   ]
 }
