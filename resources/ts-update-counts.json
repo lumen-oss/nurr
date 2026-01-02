@@ -842,7 +842,7 @@
     },
     {
       "key": "robots",
-      "value": 29
+      "value": 30
     },
     {
       "key": "roc",
@@ -1331,6 +1331,10 @@
     {
       "key": "zsh",
       "value": 10
+    },
+    {
+      "key": "robots_txt",
+      "value": 2
     }
   ]
 }
