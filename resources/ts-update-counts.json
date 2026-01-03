@@ -38,7 +38,7 @@
     },
     {
       "key": "bash",
-      "value": 49
+      "value": 50
     },
     {
       "key": "bass",
@@ -46,7 +46,7 @@
     },
     {
       "key": "beancount",
-      "value": 33
+      "value": 34
     },
     {
       "key": "bibtex",
@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 64
+      "value": 65
     },
     {
       "key": "eds",
@@ -558,7 +558,7 @@
     },
     {
       "key": "lua",
-      "value": 38
+      "value": 39
     },
     {
       "key": "luadoc",
@@ -618,7 +618,7 @@
     },
     {
       "key": "nginx",
-      "value": 30
+      "value": 31
     },
     {
       "key": "nickel",
@@ -790,7 +790,7 @@
     },
     {
       "key": "query",
-      "value": 47
+      "value": 48
     },
     {
       "key": "r",
@@ -858,7 +858,7 @@
     },
     {
       "key": "ruby",
-      "value": 37
+      "value": 38
     },
     {
       "key": "rust",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 59
+      "value": 60
     },
     {
       "key": "sxhkdrc",
@@ -994,7 +994,7 @@
     },
     {
       "key": "templ",
-      "value": 55
+      "value": 56
     },
     {
       "key": "terraform",
@@ -1050,7 +1050,7 @@
     },
     {
       "key": "typespec",
-      "value": 35
+      "value": 36
     },
     {
       "key": "typoscript",
@@ -1082,7 +1082,7 @@
     },
     {
       "key": "v",
-      "value": 53
+      "value": 54
     },
     {
       "key": "vala",
@@ -1106,7 +1106,7 @@
     },
     {
       "key": "vim",
-      "value": 39
+      "value": 40
     },
     {
       "key": "vimdoc",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 43
+      "value": 44
     },
     {
       "key": "desktop",
-      "value": 34
+      "value": 35
     },
     {
       "key": "cylc",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 34
+      "value": 35
     },
     {
       "key": "brightscript",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 9
+      "value": 10
     },
     {
       "key": "groq",
@@ -1322,7 +1322,7 @@
     },
     {
       "key": "kitty",
-      "value": 5
+      "value": 6
     },
     {
       "key": "kulala_http",
