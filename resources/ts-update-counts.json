@@ -46,7 +46,7 @@
     },
     {
       "key": "beancount",
-      "value": 35
+      "value": 36
     },
     {
       "key": "bibtex",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 53
+      "value": 54
     },
     {
       "key": "fsh",
@@ -306,7 +306,7 @@
     },
     {
       "key": "gleam",
-      "value": 49
+      "value": 50
     },
     {
       "key": "glimmer",
@@ -450,7 +450,7 @@
     },
     {
       "key": "inko",
-      "value": 53
+      "value": 54
     },
     {
       "key": "ispc",
@@ -558,7 +558,7 @@
     },
     {
       "key": "lua",
-      "value": 39
+      "value": 40
     },
     {
       "key": "luadoc",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 87
+      "value": 88
     },
     {
       "key": "muttrc",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 50
+      "value": 51
     },
     {
       "key": "squirrel",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 10
+      "value": 11
     },
     {
       "key": "groq",
@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 2
+      "value": 3
     }
   ]
 }
