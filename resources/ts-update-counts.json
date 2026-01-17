@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 65
+      "value": 66
     },
     {
       "key": "eds",
@@ -310,7 +310,7 @@
     },
     {
       "key": "glimmer",
-      "value": 29
+      "value": 30
     },
     {
       "key": "glsl",
@@ -550,7 +550,7 @@
     },
     {
       "key": "liquidsoap",
-      "value": 33
+      "value": 34
     },
     {
       "key": "llvm",
@@ -582,15 +582,15 @@
     },
     {
       "key": "markdown",
-      "value": 45
+      "value": 46
     },
     {
       "key": "markdown_inline",
-      "value": 43
+      "value": 44
     },
     {
       "key": "matlab",
-      "value": 51
+      "value": 52
     },
     {
       "key": "menhir",
@@ -602,11 +602,11 @@
     },
     {
       "key": "meson",
-      "value": 41
+      "value": 42
     },
     {
       "key": "mlir",
-      "value": 88
+      "value": 89
     },
     {
       "key": "muttrc",
@@ -626,7 +626,7 @@
     },
     {
       "key": "nim",
-      "value": 31
+      "value": 32
     },
     {
       "key": "nim_format_string",
@@ -826,7 +826,7 @@
     },
     {
       "key": "rego",
-      "value": 29
+      "value": 30
     },
     {
       "key": "requirements",
@@ -862,7 +862,7 @@
     },
     {
       "key": "rust",
-      "value": 55
+      "value": 56
     },
     {
       "key": "scala",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 60
+      "value": 61
     },
     {
       "key": "sxhkdrc",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 53
+      "value": 54
     },
     {
       "key": "vhs",
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "rescript",
-      "value": 30
+      "value": 31
     },
     {
       "key": "vrl",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 44
+      "value": 45
     },
     {
       "key": "desktop",
-      "value": 35
+      "value": 36
     },
     {
       "key": "cylc",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 35
+      "value": 36
     },
     {
       "key": "brightscript",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 11
+      "value": 12
     },
     {
       "key": "sproto",
@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 3
+      "value": 4
     }
   ]
 }
