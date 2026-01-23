@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 4
+      "value": 6
     }
   ]
 }
