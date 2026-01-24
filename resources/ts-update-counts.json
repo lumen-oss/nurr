@@ -74,7 +74,7 @@
     },
     {
       "key": "c_sharp",
-      "value": 47
+      "value": 48
     },
     {
       "key": "cairo",
@@ -178,7 +178,7 @@
     },
     {
       "key": "dtd",
-      "value": 40
+      "value": 41
     },
     {
       "key": "earthfile",
@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 66
+      "value": 67
     },
     {
       "key": "eds",
@@ -238,7 +238,7 @@
     },
     {
       "key": "fennel",
-      "value": 36
+      "value": 37
     },
     {
       "key": "fidl",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 54
+      "value": 55
     },
     {
       "key": "fsh",
@@ -386,7 +386,7 @@
     },
     {
       "key": "hcl",
-      "value": 34
+      "value": 35
     },
     {
       "key": "heex",
@@ -502,7 +502,7 @@
     },
     {
       "key": "just",
-      "value": 37
+      "value": 38
     },
     {
       "key": "kconfig",
@@ -526,7 +526,7 @@
     },
     {
       "key": "lalrpop",
-      "value": 32
+      "value": 33
     },
     {
       "key": "latex",
@@ -558,7 +558,7 @@
     },
     {
       "key": "lua",
-      "value": 40
+      "value": 41
     },
     {
       "key": "luadoc",
@@ -582,11 +582,11 @@
     },
     {
       "key": "markdown",
-      "value": 46
+      "value": 47
     },
     {
       "key": "markdown_inline",
-      "value": 44
+      "value": 45
     },
     {
       "key": "matlab",
@@ -602,11 +602,11 @@
     },
     {
       "key": "meson",
-      "value": 42
+      "value": 43
     },
     {
       "key": "mlir",
-      "value": 89
+      "value": 90
     },
     {
       "key": "muttrc",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 51
+      "value": 52
     },
     {
       "key": "squirrel",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 61
+      "value": 62
     },
     {
       "key": "sxhkdrc",
@@ -998,7 +998,7 @@
     },
     {
       "key": "terraform",
-      "value": 35
+      "value": 36
     },
     {
       "key": "textproto",
@@ -1014,7 +1014,7 @@
     },
     {
       "key": "tlaplus",
-      "value": 38
+      "value": 39
     },
     {
       "key": "tmux",
@@ -1106,7 +1106,7 @@
     },
     {
       "key": "vim",
-      "value": 40
+      "value": 41
     },
     {
       "key": "vimdoc",
@@ -1138,7 +1138,7 @@
     },
     {
       "key": "xml",
-      "value": 42
+      "value": 43
     },
     {
       "key": "yaml",
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "rescript",
-      "value": 31
+      "value": 32
     },
     {
       "key": "vrl",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 45
+      "value": 46
     },
     {
       "key": "desktop",
-      "value": 36
+      "value": 37
     },
     {
       "key": "cylc",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 36
+      "value": 37
     },
     {
       "key": "brightscript",
@@ -1314,7 +1314,7 @@
     },
     {
       "key": "rifleconf",
-      "value": 3
+      "value": 4
     },
     {
       "key": "snl",
@@ -1330,7 +1330,7 @@
     },
     {
       "key": "zsh",
-      "value": 10
+      "value": 11
     },
     {
       "key": "robots_txt",
