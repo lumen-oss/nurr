@@ -310,7 +310,7 @@
     },
     {
       "key": "glimmer",
-      "value": 30
+      "value": 31
     },
     {
       "key": "glsl",
@@ -862,7 +862,7 @@
     },
     {
       "key": "rust",
-      "value": 56
+      "value": 57
     },
     {
       "key": "scala",
