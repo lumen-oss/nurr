@@ -142,7 +142,7 @@
     },
     {
       "key": "dart",
-      "value": 38
+      "value": 39
     },
     {
       "key": "devicetree",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 55
+      "value": 56
     },
     {
       "key": "fsh",
@@ -306,7 +306,7 @@
     },
     {
       "key": "gleam",
-      "value": 50
+      "value": 51
     },
     {
       "key": "glimmer",
@@ -458,7 +458,7 @@
     },
     {
       "key": "janet_simple",
-      "value": 35
+      "value": 36
     },
     {
       "key": "java",
@@ -502,7 +502,7 @@
     },
     {
       "key": "just",
-      "value": 39
+      "value": 40
     },
     {
       "key": "kconfig",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 92
+      "value": 93
     },
     {
       "key": "muttrc",
@@ -886,7 +886,7 @@
     },
     {
       "key": "slint",
-      "value": 45
+      "value": 46
     },
     {
       "key": "smali",
@@ -902,7 +902,7 @@
     },
     {
       "key": "solidity",
-      "value": 38
+      "value": 39
     },
     {
       "key": "soql",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 52
+      "value": 53
     },
     {
       "key": "squirrel",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 59
+      "value": 60
     },
     {
       "key": "tablegen",
@@ -1070,7 +1070,7 @@
     },
     {
       "key": "unison",
-      "value": 36
+      "value": 37
     },
     {
       "key": "usd",
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "rescript",
-      "value": 32
+      "value": 33
     },
     {
       "key": "vrl",
