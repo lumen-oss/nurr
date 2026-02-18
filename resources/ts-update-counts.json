@@ -10,7 +10,7 @@
     },
     {
       "key": "angular",
-      "value": 47
+      "value": 49
     },
     {
       "key": "apex",
@@ -74,7 +74,7 @@
     },
     {
       "key": "c_sharp",
-      "value": 48
+      "value": 49
     },
     {
       "key": "cairo",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 56
+      "value": 57
     },
     {
       "key": "fsh",
@@ -582,11 +582,11 @@
     },
     {
       "key": "markdown",
-      "value": 48
+      "value": 49
     },
     {
       "key": "markdown_inline",
-      "value": 46
+      "value": 47
     },
     {
       "key": "matlab",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 93
+      "value": 94
     },
     {
       "key": "muttrc",
@@ -622,7 +622,7 @@
     },
     {
       "key": "nickel",
-      "value": 34
+      "value": 35
     },
     {
       "key": "nim",
@@ -1014,7 +1014,7 @@
     },
     {
       "key": "tlaplus",
-      "value": 39
+      "value": 40
     },
     {
       "key": "tmux",
@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 6
+      "value": 7
     }
   ]
 }
