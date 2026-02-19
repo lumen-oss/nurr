@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 35
+      "value": 37
     },
     {
       "key": "koto",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 30
+      "value": 31
     },
     {
       "key": "prql",
@@ -1190,7 +1190,7 @@
     },
     {
       "key": "glimmer_typescript",
-      "value": 36
+      "value": 37
     },
     {
       "key": "fsharp",
