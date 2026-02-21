@@ -74,7 +74,7 @@
     },
     {
       "key": "c_sharp",
-      "value": 49
+      "value": 50
     },
     {
       "key": "cairo",
@@ -194,7 +194,7 @@
     },
     {
       "key": "editorconfig",
-      "value": 68
+      "value": 69
     },
     {
       "key": "eds",
@@ -250,7 +250,7 @@
     },
     {
       "key": "fish",
-      "value": 33
+      "value": 34
     },
     {
       "key": "foam",
@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 37
+      "value": 38
     },
     {
       "key": "koto",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 94
+      "value": 95
     },
     {
       "key": "muttrc",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 31
+      "value": 32
     },
     {
       "key": "prql",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 53
+      "value": 54
     },
     {
       "key": "squirrel",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 63
+      "value": 64
     },
     {
       "key": "sxhkdrc",
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "rescript",
-      "value": 33
+      "value": 34
     },
     {
       "key": "vrl",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 47
+      "value": 48
     },
     {
       "key": "desktop",
-      "value": 38
+      "value": 39
     },
     {
       "key": "cylc",
@@ -1322,7 +1322,7 @@
     },
     {
       "key": "kitty",
-      "value": 6
+      "value": 7
     },
     {
       "key": "kulala_http",
