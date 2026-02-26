@@ -1058,7 +1058,7 @@
     },
     {
       "key": "typst",
-      "value": 38
+      "value": 39
     },
     {
       "key": "udev",
@@ -1214,11 +1214,11 @@
     },
     {
       "key": "xresources",
-      "value": 48
+      "value": 49
     },
     {
       "key": "desktop",
-      "value": 39
+      "value": 40
     },
     {
       "key": "cylc",
