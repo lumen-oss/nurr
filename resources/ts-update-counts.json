@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 38
+      "value": 39
     },
     {
       "key": "koto",
@@ -550,7 +550,7 @@
     },
     {
       "key": "liquidsoap",
-      "value": 34
+      "value": 35
     },
     {
       "key": "llvm",
@@ -558,7 +558,7 @@
     },
     {
       "key": "lua",
-      "value": 43
+      "value": 44
     },
     {
       "key": "luadoc",
@@ -582,11 +582,11 @@
     },
     {
       "key": "markdown",
-      "value": 50
+      "value": 51
     },
     {
       "key": "markdown_inline",
-      "value": 48
+      "value": 49
     },
     {
       "key": "matlab",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 96
+      "value": 97
     },
     {
       "key": "muttrc",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 32
+      "value": 33
     },
     {
       "key": "prql",
@@ -1070,7 +1070,7 @@
     },
     {
       "key": "unison",
-      "value": 37
+      "value": 38
     },
     {
       "key": "usd",
@@ -1106,7 +1106,7 @@
     },
     {
       "key": "vim",
-      "value": 42
+      "value": 43
     },
     {
       "key": "vimdoc",
@@ -1278,7 +1278,7 @@
     },
     {
       "key": "blade",
-      "value": 8
+      "value": 9
     },
     {
       "key": "caddy",
