@@ -190,7 +190,7 @@
     },
     {
       "key": "ecma",
-      "value": 34
+      "value": 35
     },
     {
       "key": "editorconfig",
@@ -622,7 +622,7 @@
     },
     {
       "key": "nickel",
-      "value": 36
+      "value": 37
     },
     {
       "key": "nim",
