@@ -206,7 +206,7 @@
     },
     {
       "key": "elixir",
-      "value": 43
+      "value": 44
     },
     {
       "key": "elm",
@@ -298,7 +298,7 @@
     },
     {
       "key": "gitcommit",
-      "value": 34
+      "value": 35
     },
     {
       "key": "gitignore",
@@ -362,7 +362,7 @@
     },
     {
       "key": "groovy",
-      "value": 35
+      "value": 36
     },
     {
       "key": "gstlaunch",
@@ -442,7 +442,7 @@
     },
     {
       "key": "idl",
-      "value": 42
+      "value": 43
     },
     {
       "key": "ini",
@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 39
+      "value": 40
     },
     {
       "key": "koto",
@@ -550,7 +550,7 @@
     },
     {
       "key": "liquidsoap",
-      "value": 35
+      "value": 36
     },
     {
       "key": "llvm",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 54
+      "value": 55
     },
     {
       "key": "menhir",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 34
+      "value": 35
     },
     {
       "key": "prql",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 60
+      "value": 61
     },
     {
       "key": "tablegen",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 55
+      "value": 56
     },
     {
       "key": "vhs",
@@ -1130,7 +1130,7 @@
     },
     {
       "key": "wit",
-      "value": 37
+      "value": 38
     },
     {
       "key": "xcompose",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 62
+      "value": 63
     },
     {
       "key": "runescript",
@@ -1278,7 +1278,7 @@
     },
     {
       "key": "blade",
-      "value": 9
+      "value": 10
     },
     {
       "key": "caddy",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 38
+      "value": 39
     },
     {
       "key": "brightscript",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 15
+      "value": 16
     },
     {
       "key": "sproto",
@@ -1330,7 +1330,7 @@
     },
     {
       "key": "zsh",
-      "value": 12
+      "value": 13
     },
     {
       "key": "robots_txt",
