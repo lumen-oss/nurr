@@ -94,6 +94,9 @@ jobs:
         version: "scm"
         summary: ${{ matrix.plugin.summary }}
         license: ${{ matrix.plugin.license }}
+        detailed_description: |
+          ${{ matrix.plugin.detailed_description }}
+          Uploaded by the [NURR](https://github.com/lumen-oss/nurr/) project
         labels: neovim
         copy_directories: |
           {{ neovim.plugin.dirs }}
