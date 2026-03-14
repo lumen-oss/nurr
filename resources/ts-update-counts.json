@@ -206,7 +206,7 @@
     },
     {
       "key": "elixir",
-      "value": 44
+      "value": 45
     },
     {
       "key": "elm",
@@ -226,7 +226,7 @@
     },
     {
       "key": "erlang",
-      "value": 49
+      "value": 50
     },
     {
       "key": "facility",
@@ -298,7 +298,7 @@
     },
     {
       "key": "gitcommit",
-      "value": 35
+      "value": 36
     },
     {
       "key": "gitignore",
@@ -438,7 +438,7 @@
     },
     {
       "key": "hyprlang",
-      "value": 40
+      "value": 41
     },
     {
       "key": "idl",
@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 40
+      "value": 41
     },
     {
       "key": "koto",
@@ -534,7 +534,7 @@
     },
     {
       "key": "ledger",
-      "value": 35
+      "value": 36
     },
     {
       "key": "leo",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 35
+      "value": 36
     },
     {
       "key": "prql",
@@ -858,7 +858,7 @@
     },
     {
       "key": "ruby",
-      "value": 39
+      "value": 40
     },
     {
       "key": "rust",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 55
+      "value": 56
     },
     {
       "key": "scfg",
@@ -874,7 +874,7 @@
     },
     {
       "key": "scheme",
-      "value": 38
+      "value": 39
     },
     {
       "key": "scss",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 61
+      "value": 62
     },
     {
       "key": "tablegen",
@@ -1082,7 +1082,7 @@
     },
     {
       "key": "v",
-      "value": 54
+      "value": 55
     },
     {
       "key": "vala",
@@ -1162,7 +1162,7 @@
     },
     {
       "key": "powershell",
-      "value": 49
+      "value": 50
     },
     {
       "key": "rescript",
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "fsharp",
-      "value": 17
+      "value": 18
     },
     {
       "key": "ziggy",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 14
+      "value": 15
     },
     {
       "key": "groq",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 16
+      "value": 17
     },
     {
       "key": "sproto",
