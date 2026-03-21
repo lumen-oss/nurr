@@ -18,7 +18,7 @@
     },
     {
       "key": "arduino",
-      "value": 35
+      "value": 36
     },
     {
       "key": "asm",
@@ -134,7 +134,7 @@
     },
     {
       "key": "cue",
-      "value": 31
+      "value": 32
     },
     {
       "key": "d",
@@ -142,7 +142,7 @@
     },
     {
       "key": "dart",
-      "value": 39
+      "value": 40
     },
     {
       "key": "devicetree",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 57
+      "value": 58
     },
     {
       "key": "fsh",
@@ -290,7 +290,7 @@
     },
     {
       "key": "git_rebase",
-      "value": 29
+      "value": 30
     },
     {
       "key": "gitattributes",
@@ -306,7 +306,7 @@
     },
     {
       "key": "gleam",
-      "value": 51
+      "value": 52
     },
     {
       "key": "glimmer",
@@ -390,7 +390,7 @@
     },
     {
       "key": "heex",
-      "value": 36
+      "value": 37
     },
     {
       "key": "helm",
@@ -442,7 +442,7 @@
     },
     {
       "key": "idl",
-      "value": 43
+      "value": 44
     },
     {
       "key": "ini",
@@ -502,7 +502,7 @@
     },
     {
       "key": "just",
-      "value": 40
+      "value": 41
     },
     {
       "key": "kconfig",
@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 41
+      "value": 42
     },
     {
       "key": "koto",
@@ -534,7 +534,7 @@
     },
     {
       "key": "ledger",
-      "value": 36
+      "value": 37
     },
     {
       "key": "leo",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 97
+      "value": 98
     },
     {
       "key": "muttrc",
@@ -626,7 +626,7 @@
     },
     {
       "key": "nim",
-      "value": 32
+      "value": 33
     },
     {
       "key": "nim_format_string",
@@ -690,11 +690,11 @@
     },
     {
       "key": "php",
-      "value": 52
+      "value": 53
     },
     {
       "key": "php_only",
-      "value": 56
+      "value": 57
     },
     {
       "key": "phpdoc",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 36
+      "value": 37
     },
     {
       "key": "prql",
@@ -798,7 +798,7 @@
     },
     {
       "key": "racket",
-      "value": 36
+      "value": 37
     },
     {
       "key": "ralph",
@@ -862,7 +862,7 @@
     },
     {
       "key": "rust",
-      "value": 57
+      "value": 58
     },
     {
       "key": "scala",
@@ -874,7 +874,7 @@
     },
     {
       "key": "scheme",
-      "value": 39
+      "value": 40
     },
     {
       "key": "scss",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 65
+      "value": 66
     },
     {
       "key": "sxhkdrc",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 56
+      "value": 57
     },
     {
       "key": "vhs",
@@ -1162,7 +1162,7 @@
     },
     {
       "key": "powershell",
-      "value": 50
+      "value": 51
     },
     {
       "key": "rescript",
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "fsharp",
-      "value": 18
+      "value": 19
     },
     {
       "key": "ziggy",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 63
+      "value": 64
     },
     {
       "key": "runescript",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 15
+      "value": 16
     },
     {
       "key": "groq",
