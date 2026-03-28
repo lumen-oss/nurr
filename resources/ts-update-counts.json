@@ -46,7 +46,7 @@
     },
     {
       "key": "beancount",
-      "value": 37
+      "value": 38
     },
     {
       "key": "bibtex",
@@ -346,7 +346,7 @@
     },
     {
       "key": "gotmpl",
-      "value": 42
+      "value": 43
     },
     {
       "key": "gowork",
@@ -390,11 +390,11 @@
     },
     {
       "key": "heex",
-      "value": 37
+      "value": 38
     },
     {
       "key": "helm",
-      "value": 41
+      "value": 42
     },
     {
       "key": "hjson",
@@ -442,7 +442,7 @@
     },
     {
       "key": "idl",
-      "value": 44
+      "value": 45
     },
     {
       "key": "ini",
@@ -502,7 +502,7 @@
     },
     {
       "key": "just",
-      "value": 41
+      "value": 42
     },
     {
       "key": "kconfig",
@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 43
+      "value": 44
     },
     {
       "key": "koto",
@@ -546,7 +546,7 @@
     },
     {
       "key": "liquid",
-      "value": 35
+      "value": 36
     },
     {
       "key": "liquidsoap",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 98
+      "value": 99
     },
     {
       "key": "muttrc",
@@ -654,11 +654,11 @@
     },
     {
       "key": "ocaml",
-      "value": 46
+      "value": 47
     },
     {
       "key": "ocaml_interface",
-      "value": 47
+      "value": 48
     },
     {
       "key": "ocamllex",
@@ -710,7 +710,7 @@
     },
     {
       "key": "pod",
-      "value": 30
+      "value": 31
     },
     {
       "key": "poe_filter",
@@ -862,7 +862,7 @@
     },
     {
       "key": "rust",
-      "value": 58
+      "value": 59
     },
     {
       "key": "scala",
@@ -946,7 +946,7 @@
     },
     {
       "key": "supercollider",
-      "value": 37
+      "value": 38
     },
     {
       "key": "surface",
@@ -1054,7 +1054,7 @@
     },
     {
       "key": "typoscript",
-      "value": 33
+      "value": 34
     },
     {
       "key": "typst",
@@ -1262,11 +1262,11 @@
     },
     {
       "key": "jinja",
-      "value": 11
+      "value": 12
     },
     {
       "key": "jinja_inline",
-      "value": 15
+      "value": 16
     },
     {
       "key": "kcl",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 39
+      "value": 40
     },
     {
       "key": "brightscript",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 17
+      "value": 18
     },
     {
       "key": "sproto",
