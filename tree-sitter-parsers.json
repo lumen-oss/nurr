@@ -1066,6 +1066,15 @@
     },
     {
       "install_info": {
+        "location": "tree-sitter-ipynb",
+        "revision": "b9ec93f7c37a3a081810a733d6baf4973fc31f3d",
+        "url": "https://github.com/ajbucci/ipynb.nvim"
+      },
+      "lang": "ipynb",
+      "tier": 2
+    },
+    {
+      "install_info": {
         "revision": "v0.5.1",
         "url": "https://github.com/inko-lang/tree-sitter-inko"
       },
