@@ -49,12 +49,30 @@ jobs:
             echo EOF
           } >> "$GITHUB_OUTPUT"
 
-      - name: Get resources
-        uses: actions/checkout@v4
+      - uses: rhysd/action-setup-vim@v1
+        with:
+          neovim: true
+          version: stable
+
+      - name: Install Lua
+        uses: leso-kn/gh-actions-lua@master
+        with:
+          luaVersion: "5.1"
+
+      - name: Install Luarocks
+        uses: hishamhm/gh-actions-luarocks@master
+
+      - name: Get resources and scripts
+        uses: actions/checkout@v6
         with:
           sparse-checkout: |
             resources
+            scripts
           path: nurr
+
+      - name: Determine specrev
+        run: 
+          echo "SPECREV=$(./nurr/scripts/echo_next_specrev.lua ${{ matrix.plugin.shorthand }})" >> $GITHUB_ENV
 
       - name: Publish Development LuaRock
         uses: nvim-neorocks/luarocks-tag-release@v7
@@ -72,6 +90,6 @@ jobs:
             ${{ matrix.plugin.extra_directories }}
           extra_luarocks_args: |
             --namespace=neorocks
-            --force
             --dev
           template: ${{ matrix.plugin.rockspec_template }}
+          specrev: ${{ env.SPECREV }}

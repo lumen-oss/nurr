@@ -41,7 +41,7 @@ jobs:
           version: nightly
 
       - name: checkout NURR scripts
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           sparse-checkout: |
             scripts
