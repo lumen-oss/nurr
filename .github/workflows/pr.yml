@@ -11,8 +11,8 @@ jobs:
       plugins: ${{ steps.json.outputs.plugins }}
     steps:
       - uses: actions/checkout@v4
-      - uses: cachix/install-nix-action@v27
-      - run: nix profile install nixpkgs#python3Packages.jsondiff
+      - uses: cachix/install-nix-action@v31
+      - run: nix profile add nixpkgs#python3Packages.jsondiff
       - name: build matrix of plugins to test
         id: json
         run: |
