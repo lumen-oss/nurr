@@ -11,8 +11,8 @@ jobs:
       plugins: ${{ steps.json.outputs.plugins }}
     steps:
       - uses: actions/checkout@v4
-      - uses: cachix/install-nix-action@v27
-      - run: nix profile install nixpkgs#python3Packages.jsondiff
+      - uses: cachix/install-nix-action@v31
+      - run: nix profile add nixpkgs#python3Packages.jsondiff
       - name: build matrix of plugins to test
         id: json
         run: |
@@ -20,11 +20,10 @@ jobs:
           git fetch origin ${{github.base_ref}}
           git show origin/${{github.base_ref}}:plugins.json > plugins-old.json
 
-          echo "testing diff.json"
+          echo "Diffing old and new plugins.json to find out new plugins..."
           jdiff plugins-old.json plugins.json > diff.json
 
-          jq '.plugins."$insert"[][1]' diff.json > ./new.json
-
+          jq 'if .plugins."$insert"? then .plugins."$insert"[][1] else [] end' diff.json > new.json
           echo "New plugins added in this PR:"
           cat new.json
 
