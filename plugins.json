@@ -1345,6 +1345,13 @@
             "dependencies": []
         },
         {
+            "name": "hakonharnes/img-clip.nvim",
+            "shorthand": "img-clip.nvim",
+            "license": "MIT",
+            "summary": "Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.",
+            "dependencies": []
+        },
+        {
             "name": "smjonas/inc-rename.nvim",
             "shorthand": "inc-rename.nvim",
             "license": "MIT",
