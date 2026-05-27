@@ -2411,6 +2411,13 @@
             "dependencies": [],
             "summary": "A Lua port of the Everforest colour scheme",
             "license": "MIT"
+        },
+        {
+            "name": "Crysthamus/nvim-file-operations",
+            "shorthand": "nvim-file-operations",
+            "dependencies": [],
+            "summary": "A plugin that adds support for file operations using built-in LSP.",
+            "license": "MIT"
         }
     ]
 }
