@@ -65,3 +65,8 @@ which uses the chunk it receives as the input for a matrix build.
 > Any tree-sitter parser rockspecs that cannot be built and installed by the workflow
 
 > are not uploaded to luarocks.org.
+
+### Manually maintained rockspecs
+
+The [`rockspecs/`](./rockspecs/README.md) directory contains rockspecs that we maintain and upload
+manually.
