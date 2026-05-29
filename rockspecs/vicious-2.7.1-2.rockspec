@@ -1,5 +1,5 @@
 local modrev = '2.7.1'
-local specrev = '-1'
+local specrev = '-2'
 
 rockspec_format = '3.0'
 package = 'vicious'
@@ -9,7 +9,7 @@ description = {
   summary = 'Modular widget library for the "awesome" window manager',
   labels = { 'awesomewm', 'widget-libraries' },
   homepage = 'https://vicious.rtfd.io',
-  license = 'GPL-2.0',
+  license = 'GPL-2.0+',
 }
 
 dependencies = {
