@@ -1,3 +1,4 @@
 chunks.json
 .luarc.json
 .direnv
+*.src.rock
