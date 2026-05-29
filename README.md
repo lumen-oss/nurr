@@ -1,7 +1,7 @@
 # Neovim User Rock Repository (NURR)
 
-The NURR hosts and automatically packages Neovim Luarocks releases for many plugins
-and tree-sitter parsers whose developers do not want to maintain a Luarocks CI workflow.
+The NURR hosts and automatically packages Luarocks releases for many Neovim plugins,
+tree-sitter parsers and general Lua packages whose developers do not want to maintain a Luarocks CI workflow.
 
 This repository contains a CI which runs periodically, enumerating a set of curated Neovim plugins
 and publishing them to `luarocks.org`.
