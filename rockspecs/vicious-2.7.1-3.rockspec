@@ -1,5 +1,5 @@
 local modrev = '2.7.1'
-local specrev = '-2'
+local specrev = '-3'
 
 rockspec_format = '3.0'
 package = 'vicious'
@@ -13,7 +13,7 @@ description = {
 }
 
 dependencies = {
-  'lua == 5.1',
+  'lua >= 5.1',
 }
 
 source = {
