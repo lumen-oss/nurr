@@ -323,6 +323,13 @@
             "license": "MIT"
         },
         {
+            "name": "nvim-mini/mini.input",
+            "shorthand": "mini.input",
+            "dependencies": [],
+            "summary": "Neovim: Get user input. Part of 'mini.nvim' suite.",
+            "license": "MIT"
+        },
+        {
             "name": "nvim-mini/mini.jump",
             "shorthand": "mini.jump",
             "dependencies": [],
