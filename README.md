@@ -55,12 +55,6 @@ manually.
 
 ### Tree-sitter parsers
 
-> [!CAUTION]
->
-> Because nvim-treesitter has been archived, we have disabled this workflow.
-> We encourage you to upstream queries, along with their tests,
-> so that they can be maintained by the parser maintainers.
-
 - One workflow periodically generates the [tree-sitter-parsers.json](./tree-sitter-parsers.json)
   file, using nvim-treesitter as a source.
 - Another workflow uses that file as a matrix input, to generate
