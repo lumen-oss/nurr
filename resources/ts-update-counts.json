@@ -154,7 +154,7 @@
     },
     {
       "key": "diff",
-      "value": 35
+      "value": 36
     },
     {
       "key": "disassembly",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 60
+      "value": 61
     },
     {
       "key": "fsh",
@@ -322,7 +322,7 @@
     },
     {
       "key": "gnuplot",
-      "value": 32
+      "value": 33
     },
     {
       "key": "go",
@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 46
+      "value": 47
     },
     {
       "key": "koto",
@@ -586,7 +586,7 @@
     },
     {
       "key": "markdown_inline",
-      "value": 51
+      "value": 52
     },
     {
       "key": "matlab",
@@ -794,7 +794,7 @@
     },
     {
       "key": "r",
-      "value": 41
+      "value": 42
     },
     {
       "key": "racket",
@@ -858,7 +858,7 @@
     },
     {
       "key": "ruby",
-      "value": 41
+      "value": 42
     },
     {
       "key": "rust",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 68
+      "value": 69
     },
     {
       "key": "sxhkdrc",
@@ -1130,7 +1130,7 @@
     },
     {
       "key": "wit",
-      "value": 40
+      "value": 41
     },
     {
       "key": "xcompose",
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "rescript",
-      "value": 36
+      "value": 37
     },
     {
       "key": "vrl",
@@ -1254,11 +1254,11 @@
     },
     {
       "key": "razor",
-      "value": 5
+      "value": 6
     },
     {
       "key": "enforce",
-      "value": 14
+      "value": 15
     },
     {
       "key": "jinja",
@@ -1266,7 +1266,7 @@
     },
     {
       "key": "jinja_inline",
-      "value": 18
+      "value": 19
     },
     {
       "key": "kcl",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 18
+      "value": 19
     },
     {
       "key": "groq",
