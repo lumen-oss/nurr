@@ -154,7 +154,7 @@
     },
     {
       "key": "diff",
-      "value": 38
+      "value": 39
     },
     {
       "key": "disassembly",
@@ -206,11 +206,11 @@
     },
     {
       "key": "elixir",
-      "value": 46
+      "value": 47
     },
     {
       "key": "elm",
-      "value": 39
+      "value": 40
     },
     {
       "key": "elsa",
@@ -226,7 +226,7 @@
     },
     {
       "key": "erlang",
-      "value": 51
+      "value": 52
     },
     {
       "key": "facility",
@@ -286,7 +286,7 @@
     },
     {
       "key": "git_config",
-      "value": 31
+      "value": 32
     },
     {
       "key": "git_rebase",
@@ -322,7 +322,7 @@
     },
     {
       "key": "gnuplot",
-      "value": 37
+      "value": 38
     },
     {
       "key": "go",
@@ -442,7 +442,7 @@
     },
     {
       "key": "idl",
-      "value": 46
+      "value": 47
     },
     {
       "key": "ini",
@@ -582,11 +582,11 @@
     },
     {
       "key": "markdown",
-      "value": 52
+      "value": 53
     },
     {
       "key": "markdown_inline",
-      "value": 52
+      "value": 53
     },
     {
       "key": "matlab",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 100
+      "value": 101
     },
     {
       "key": "muttrc",
@@ -622,7 +622,7 @@
     },
     {
       "key": "nickel",
-      "value": 38
+      "value": 39
     },
     {
       "key": "nim",
@@ -690,11 +690,11 @@
     },
     {
       "key": "php",
-      "value": 54
+      "value": 55
     },
     {
       "key": "php_only",
-      "value": 58
+      "value": 59
     },
     {
       "key": "phpdoc",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 57
+      "value": 58
     },
     {
       "key": "scfg",
@@ -930,7 +930,7 @@
     },
     {
       "key": "ssh_config",
-      "value": 35
+      "value": 36
     },
     {
       "key": "starlark",
@@ -970,7 +970,7 @@
     },
     {
       "key": "systemverilog",
-      "value": 47
+      "value": 48
     },
     {
       "key": "t32",
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "fsharp",
-      "value": 20
+      "value": 21
     },
     {
       "key": "ziggy",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 35
+      "value": 36
     },
     {
       "key": "gren",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 41
+      "value": 42
     },
     {
       "key": "brightscript",
@@ -1322,7 +1322,7 @@
     },
     {
       "key": "kitty",
-      "value": 8
+      "value": 9
     },
     {
       "key": "kulala_http",
@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 8
+      "value": 10
     },
     {
       "key": "jjdescription",
