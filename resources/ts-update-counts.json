@@ -2,7 +2,7 @@
   "update_counts": [
     {
       "key": "ada",
-      "value": 35
+      "value": 36
     },
     {
       "key": "agda",
@@ -154,7 +154,7 @@
     },
     {
       "key": "diff",
-      "value": 39
+      "value": 40
     },
     {
       "key": "disassembly",
@@ -226,7 +226,7 @@
     },
     {
       "key": "erlang",
-      "value": 52
+      "value": 53
     },
     {
       "key": "facility",
@@ -322,7 +322,7 @@
     },
     {
       "key": "gnuplot",
-      "value": 41
+      "value": 42
     },
     {
       "key": "go",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 101
+      "value": 102
     },
     {
       "key": "muttrc",
@@ -622,7 +622,7 @@
     },
     {
       "key": "nickel",
-      "value": 39
+      "value": 40
     },
     {
       "key": "nim",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 38
+      "value": 39
     },
     {
       "key": "prql",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 58
+      "value": 59
     },
     {
       "key": "scfg",
@@ -994,7 +994,7 @@
     },
     {
       "key": "templ",
-      "value": 57
+      "value": 58
     },
     {
       "key": "terraform",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 58
+      "value": 59
     },
     {
       "key": "vhs",
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "fsharp",
-      "value": 21
+      "value": 22
     },
     {
       "key": "ziggy",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 65
+      "value": 66
     },
     {
       "key": "runescript",
@@ -1254,7 +1254,7 @@
     },
     {
       "key": "razor",
-      "value": 6
+      "value": 7
     },
     {
       "key": "enforce",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 42
+      "value": 43
     },
     {
       "key": "brightscript",
