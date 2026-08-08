@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 47
+      "value": 48
     },
     {
       "key": "koto",
@@ -530,7 +530,7 @@
     },
     {
       "key": "latex",
-      "value": 41
+      "value": 42
     },
     {
       "key": "ledger",
@@ -562,7 +562,7 @@
     },
     {
       "key": "luadoc",
-      "value": 30
+      "value": 31
     },
     {
       "key": "luap",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 102
+      "value": 103
     },
     {
       "key": "muttrc",
@@ -618,7 +618,7 @@
     },
     {
       "key": "nginx",
-      "value": 31
+      "value": 32
     },
     {
       "key": "nickel",
@@ -654,11 +654,11 @@
     },
     {
       "key": "ocaml",
-      "value": 48
+      "value": 49
     },
     {
       "key": "ocaml_interface",
-      "value": 49
+      "value": 50
     },
     {
       "key": "ocamllex",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 39
+      "value": 40
     },
     {
       "key": "prql",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 61
+      "value": 62
     },
     {
       "key": "scfg",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 69
+      "value": 70
     },
     {
       "key": "sxhkdrc",
@@ -986,7 +986,7 @@
     },
     {
       "key": "tcl",
-      "value": 37
+      "value": 38
     },
     {
       "key": "teal",
@@ -994,7 +994,7 @@
     },
     {
       "key": "templ",
-      "value": 58
+      "value": 59
     },
     {
       "key": "terraform",
@@ -1042,7 +1042,7 @@
     },
     {
       "key": "twig",
-      "value": 31
+      "value": 32
     },
     {
       "key": "typescript",
@@ -1074,7 +1074,7 @@
     },
     {
       "key": "usd",
-      "value": 30
+      "value": 31
     },
     {
       "key": "uxntal",
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "fsharp",
-      "value": 22
+      "value": 23
     },
     {
       "key": "ziggy",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 43
+      "value": 44
     },
     {
       "key": "brightscript",
