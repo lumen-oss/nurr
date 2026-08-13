@@ -154,7 +154,7 @@
     },
     {
       "key": "diff",
-      "value": 40
+      "value": 42
     },
     {
       "key": "disassembly",
@@ -990,7 +990,7 @@
     },
     {
       "key": "teal",
-      "value": 35
+      "value": 37
     },
     {
       "key": "templ",
