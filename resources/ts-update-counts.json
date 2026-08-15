@@ -154,7 +154,7 @@
     },
     {
       "key": "diff",
-      "value": 42
+      "value": 43
     },
     {
       "key": "disassembly",
@@ -174,7 +174,7 @@
     },
     {
       "key": "doxygen",
-      "value": 29
+      "value": 30
     },
     {
       "key": "dtd",
@@ -498,7 +498,7 @@
     },
     {
       "key": "julia",
-      "value": 52
+      "value": 53
     },
     {
       "key": "just",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 103
+      "value": 104
     },
     {
       "key": "muttrc",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 40
+      "value": 41
     },
     {
       "key": "prql",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 62
+      "value": 63
     },
     {
       "key": "scfg",
@@ -914,7 +914,7 @@
     },
     {
       "key": "sourcepawn",
-      "value": 31
+      "value": 32
     },
     {
       "key": "sparql",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 70
+      "value": 71
     },
     {
       "key": "sxhkdrc",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 59
+      "value": 60
     },
     {
       "key": "vhs",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 36
+      "value": 37
     },
     {
       "key": "gren",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 66
+      "value": 67
     },
     {
       "key": "runescript",
@@ -1290,7 +1290,7 @@
     },
     {
       "key": "brightscript",
-      "value": 3
+      "value": 4
     },
     {
       "key": "c3",
@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 10
+      "value": 11
     },
     {
       "key": "jjdescription",
