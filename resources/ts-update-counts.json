@@ -14,7 +14,7 @@
     },
     {
       "key": "apex",
-      "value": 49
+      "value": 50
     },
     {
       "key": "arduino",
@@ -478,7 +478,7 @@
     },
     {
       "key": "json",
-      "value": 40
+      "value": 41
     },
     {
       "key": "json5",
@@ -550,7 +550,7 @@
     },
     {
       "key": "liquidsoap",
-      "value": 36
+      "value": 37
     },
     {
       "key": "llvm",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 104
+      "value": 105
     },
     {
       "key": "muttrc",
@@ -798,7 +798,7 @@
     },
     {
       "key": "racket",
-      "value": 38
+      "value": 39
     },
     {
       "key": "ralph",
@@ -826,7 +826,7 @@
     },
     {
       "key": "rego",
-      "value": 31
+      "value": 32
     },
     {
       "key": "requirements",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 63
+      "value": 64
     },
     {
       "key": "scfg",
@@ -906,15 +906,15 @@
     },
     {
       "key": "soql",
-      "value": 47
+      "value": 48
     },
     {
       "key": "sosl",
-      "value": 45
+      "value": 46
     },
     {
       "key": "sourcepawn",
-      "value": 32
+      "value": 33
     },
     {
       "key": "sparql",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 71
+      "value": 72
     },
     {
       "key": "sxhkdrc",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 60
+      "value": 61
     },
     {
       "key": "vhs",
@@ -1174,7 +1174,7 @@
     },
     {
       "key": "sflog",
-      "value": 45
+      "value": 46
     },
     {
       "key": "gap",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 19
+      "value": 20
     },
     {
       "key": "sproto",
@@ -1310,7 +1310,7 @@
     },
     {
       "key": "wxml",
-      "value": 2
+      "value": 3
     },
     {
       "key": "rifleconf",
