@@ -428,6 +428,13 @@
             "license": "MIT"
         },
         {
+            "name": "nvim-mini/mini.statuscolumn",
+            "shorthand": "mini.statuscolumn",
+            "dependencies": [],
+            "summary": "Neovim statuscolumn. Part of the mini.nvim suite.",
+            "license": "MIT"
+        },
+        {
             "name": "nvim-mini/mini.statusline",
             "shorthand": "mini.statusline",
             "dependencies": [],
