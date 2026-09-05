@@ -130,7 +130,7 @@
     },
     {
       "key": "cuda",
-      "value": 32
+      "value": 33
     },
     {
       "key": "cue",
@@ -254,7 +254,7 @@
     },
     {
       "key": "foam",
-      "value": 31
+      "value": 32
     },
     {
       "key": "forth",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 106
+      "value": 107
     },
     {
       "key": "muttrc",
@@ -618,7 +618,7 @@
     },
     {
       "key": "nginx",
-      "value": 32
+      "value": 33
     },
     {
       "key": "nickel",
@@ -654,11 +654,11 @@
     },
     {
       "key": "ocaml",
-      "value": 49
+      "value": 50
     },
     {
       "key": "ocaml_interface",
-      "value": 50
+      "value": 51
     },
     {
       "key": "ocamllex",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 43
+      "value": 44
     },
     {
       "key": "prql",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 55
+      "value": 56
     },
     {
       "key": "squirrel",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 73
+      "value": 74
     },
     {
       "key": "sxhkdrc",
@@ -1042,7 +1042,7 @@
     },
     {
       "key": "twig",
-      "value": 33
+      "value": 34
     },
     {
       "key": "typescript",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 62
+      "value": 63
     },
     {
       "key": "vhs",
@@ -1270,7 +1270,7 @@
     },
     {
       "key": "kcl",
-      "value": 3
+      "value": 4
     },
     {
       "key": "tera",
@@ -1278,7 +1278,7 @@
     },
     {
       "key": "blade",
-      "value": 11
+      "value": 12
     },
     {
       "key": "caddy",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 44
+      "value": 45
     },
     {
       "key": "brightscript",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 19
+      "value": 20
     },
     {
       "key": "groq",
