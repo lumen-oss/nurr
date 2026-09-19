@@ -94,7 +94,7 @@
     },
     {
       "key": "cmake",
-      "value": 41
+      "value": 42
     },
     {
       "key": "comment",
@@ -118,7 +118,7 @@
     },
     {
       "key": "cpp",
-      "value": 50
+      "value": 51
     },
     {
       "key": "css",
@@ -130,7 +130,7 @@
     },
     {
       "key": "cuda",
-      "value": 35
+      "value": 36
     },
     {
       "key": "cue",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 61
+      "value": 62
     },
     {
       "key": "fsh",
@@ -306,7 +306,7 @@
     },
     {
       "key": "gleam",
-      "value": 53
+      "value": 54
     },
     {
       "key": "glimmer",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 107
+      "value": 108
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 72
+      "value": 73
     },
     {
       "key": "nqc",
@@ -654,11 +654,11 @@
     },
     {
       "key": "ocaml",
-      "value": 50
+      "value": 51
     },
     {
       "key": "ocaml_interface",
-      "value": 51
+      "value": 52
     },
     {
       "key": "ocamllex",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 57
+      "value": 58
     },
     {
       "key": "squirrel",
@@ -970,7 +970,7 @@
     },
     {
       "key": "systemverilog",
-      "value": 48
+      "value": 49
     },
     {
       "key": "t32",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 64
+      "value": 65
     },
     {
       "key": "vhs",
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "fsharp",
-      "value": 23
+      "value": 24
     },
     {
       "key": "ziggy",
@@ -1230,7 +1230,7 @@
     },
     {
       "key": "nu",
-      "value": 67
+      "value": 68
     },
     {
       "key": "runescript",
@@ -1258,7 +1258,7 @@
     },
     {
       "key": "enforce",
-      "value": 15
+      "value": 16
     },
     {
       "key": "jinja",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 20
+      "value": 21
     },
     {
       "key": "groq",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 20
+      "value": 21
     },
     {
       "key": "sproto",
@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 11
+      "value": 12
     },
     {
       "key": "jjdescription",
