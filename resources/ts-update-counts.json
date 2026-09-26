@@ -242,7 +242,7 @@
     },
     {
       "key": "fidl",
-      "value": 29
+      "value": 30
     },
     {
       "key": "firrtl",
@@ -534,7 +534,7 @@
     },
     {
       "key": "ledger",
-      "value": 37
+      "value": 38
     },
     {
       "key": "leo",
@@ -550,7 +550,7 @@
     },
     {
       "key": "liquidsoap",
-      "value": 38
+      "value": 39
     },
     {
       "key": "llvm",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 108
+      "value": 109
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 73
+      "value": 74
     },
     {
       "key": "nqc",
@@ -654,15 +654,15 @@
     },
     {
       "key": "ocaml",
-      "value": 51
-    },
-    {
-      "key": "ocaml_interface",
       "value": 52
     },
     {
+      "key": "ocaml_interface",
+      "value": 53
+    },
+    {
       "key": "ocamllex",
-      "value": 33
+      "value": 34
     },
     {
       "key": "odin",
@@ -690,11 +690,11 @@
     },
     {
       "key": "php",
-      "value": 55
+      "value": 56
     },
     {
       "key": "php_only",
-      "value": 59
+      "value": 60
     },
     {
       "key": "phpdoc",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 44
+      "value": 45
     },
     {
       "key": "prql",
@@ -874,7 +874,7 @@
     },
     {
       "key": "scheme",
-      "value": 40
+      "value": 42
     },
     {
       "key": "scss",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 75
+      "value": 76
     },
     {
       "key": "sxhkdrc",
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "rescript",
-      "value": 37
+      "value": 38
     },
     {
       "key": "vrl",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 37
+      "value": 38
     },
     {
       "key": "gren",
@@ -1274,7 +1274,7 @@
     },
     {
       "key": "tera",
-      "value": 9
+      "value": 10
     },
     {
       "key": "blade",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 21
+      "value": 22
     },
     {
       "key": "sproto",
