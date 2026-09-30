@@ -10,7 +10,7 @@
     },
     {
       "key": "angular",
-      "value": 50
+      "value": 51
     },
     {
       "key": "apex",
@@ -242,7 +242,7 @@
     },
     {
       "key": "fidl",
-      "value": 30
+      "value": 31
     },
     {
       "key": "firrtl",
@@ -362,7 +362,7 @@
     },
     {
       "key": "groovy",
-      "value": 37
+      "value": 38
     },
     {
       "key": "gstlaunch",
@@ -498,7 +498,7 @@
     },
     {
       "key": "julia",
-      "value": 53
+      "value": 54
     },
     {
       "key": "just",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 74
+      "value": 75
     },
     {
       "key": "nqc",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 76
+      "value": 77
     },
     {
       "key": "sxhkdrc",
@@ -970,7 +970,7 @@
     },
     {
       "key": "systemverilog",
-      "value": 49
+      "value": 50
     },
     {
       "key": "t32",
