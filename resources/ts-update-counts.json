@@ -226,7 +226,7 @@
     },
     {
       "key": "erlang",
-      "value": 53
+      "value": 54
     },
     {
       "key": "facility",
@@ -238,7 +238,7 @@
     },
     {
       "key": "fennel",
-      "value": 37
+      "value": 38
     },
     {
       "key": "fidl",
@@ -442,7 +442,7 @@
     },
     {
       "key": "idl",
-      "value": 47
+      "value": 48
     },
     {
       "key": "ini",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 110
+      "value": 111
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 76
+      "value": 77
     },
     {
       "key": "nqc",
@@ -686,15 +686,15 @@
     },
     {
       "key": "perl",
-      "value": 51
+      "value": 52
     },
     {
       "key": "php",
-      "value": 56
+      "value": 57
     },
     {
       "key": "php_only",
-      "value": 60
+      "value": 61
     },
     {
       "key": "phpdoc",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 45
+      "value": 46
     },
     {
       "key": "prql",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 77
+      "value": 78
     },
     {
       "key": "sxhkdrc",
@@ -994,7 +994,7 @@
     },
     {
       "key": "templ",
-      "value": 59
+      "value": 60
     },
     {
       "key": "terraform",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 46
+      "value": 47
     },
     {
       "key": "brightscript",
