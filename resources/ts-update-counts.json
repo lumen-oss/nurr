@@ -2,7 +2,7 @@
   "update_counts": [
     {
       "key": "ada",
-      "value": 36
+      "value": 37
     },
     {
       "key": "agda",
@@ -134,7 +134,7 @@
     },
     {
       "key": "cue",
-      "value": 33
+      "value": 34
     },
     {
       "key": "d",
@@ -142,7 +142,7 @@
     },
     {
       "key": "dart",
-      "value": 41
+      "value": 42
     },
     {
       "key": "devicetree",
@@ -226,7 +226,7 @@
     },
     {
       "key": "erlang",
-      "value": 54
+      "value": 55
     },
     {
       "key": "facility",
@@ -322,7 +322,7 @@
     },
     {
       "key": "gnuplot",
-      "value": 42
+      "value": 43
     },
     {
       "key": "go",
@@ -450,7 +450,7 @@
     },
     {
       "key": "inko",
-      "value": 55
+      "value": 56
     },
     {
       "key": "ispc",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 111
+      "value": 112
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 77
+      "value": 79
     },
     {
       "key": "nqc",
@@ -686,7 +686,7 @@
     },
     {
       "key": "perl",
-      "value": 52
+      "value": 53
     },
     {
       "key": "php",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 46
+      "value": 47
     },
     {
       "key": "prql",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 65
+      "value": 66
     },
     {
       "key": "scfg",
@@ -874,7 +874,7 @@
     },
     {
       "key": "scheme",
-      "value": 43
+      "value": 44
     },
     {
       "key": "scss",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 78
+      "value": 79
     },
     {
       "key": "sxhkdrc",
@@ -974,7 +974,7 @@
     },
     {
       "key": "t32",
-      "value": 64
+      "value": 65
     },
     {
       "key": "tablegen",
@@ -1110,7 +1110,7 @@
     },
     {
       "key": "vimdoc",
-      "value": 40
+      "value": 42
     },
     {
       "key": "vue",
