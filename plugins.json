@@ -99,6 +99,13 @@
             "license": "MIT"
         },
         {
+            "name": "lewis6991/nvim-test",
+            "shorthand": "nvim-test",
+            "dependencies": ["busted"],
+            "summary": "Test framework for Neovim plugins",
+            "license": "Apache-2.0"
+        },
+        {
             "name": "leath-dub/snipe.nvim",
             "shorthand": "snipe.nvim",
             "dependencies": [],
