@@ -2,7 +2,7 @@
   "update_counts": [
     {
       "key": "ada",
-      "value": 37
+      "value": 38
     },
     {
       "key": "agda",
@@ -14,7 +14,7 @@
     },
     {
       "key": "apex",
-      "value": 50
+      "value": 51
     },
     {
       "key": "arduino",
@@ -142,7 +142,7 @@
     },
     {
       "key": "dart",
-      "value": 42
+      "value": 43
     },
     {
       "key": "devicetree",
@@ -206,7 +206,7 @@
     },
     {
       "key": "elixir",
-      "value": 47
+      "value": 48
     },
     {
       "key": "elm",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 62
+      "value": 63
     },
     {
       "key": "fsh",
@@ -434,7 +434,7 @@
     },
     {
       "key": "hurl",
-      "value": 34
+      "value": 35
     },
     {
       "key": "hyprlang",
@@ -582,11 +582,11 @@
     },
     {
       "key": "markdown",
-      "value": 53
+      "value": 54
     },
     {
       "key": "markdown_inline",
-      "value": 53
+      "value": 54
     },
     {
       "key": "matlab",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 112
+      "value": 113
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 79
+      "value": 80
     },
     {
       "key": "nqc",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 66
+      "value": 67
     },
     {
       "key": "scfg",
@@ -906,11 +906,11 @@
     },
     {
       "key": "soql",
-      "value": 48
+      "value": 49
     },
     {
       "key": "sosl",
-      "value": 46
+      "value": 47
     },
     {
       "key": "sourcepawn",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 58
+      "value": 59
     },
     {
       "key": "squirrel",
@@ -970,7 +970,7 @@
     },
     {
       "key": "systemverilog",
-      "value": 50
+      "value": 51
     },
     {
       "key": "t32",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 65
+      "value": 66
     },
     {
       "key": "vhs",
@@ -1110,7 +1110,7 @@
     },
     {
       "key": "vimdoc",
-      "value": 42
+      "value": 43
     },
     {
       "key": "vue",
@@ -1162,7 +1162,7 @@
     },
     {
       "key": "powershell",
-      "value": 52
+      "value": 53
     },
     {
       "key": "rescript",
@@ -1174,7 +1174,7 @@
     },
     {
       "key": "sflog",
-      "value": 46
+      "value": 47
     },
     {
       "key": "gap",
@@ -1238,7 +1238,7 @@
     },
     {
       "key": "circom",
-      "value": 2
+      "value": 3
     },
     {
       "key": "ipkg",
@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 12
+      "value": 13
     },
     {
       "key": "jjdescription",
