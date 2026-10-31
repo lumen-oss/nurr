@@ -2,7 +2,7 @@
   "update_counts": [
     {
       "key": "ada",
-      "value": 38
+      "value": 39
     },
     {
       "key": "agda",
@@ -94,7 +94,7 @@
     },
     {
       "key": "cmake",
-      "value": 42
+      "value": 43
     },
     {
       "key": "comment",
@@ -134,7 +134,7 @@
     },
     {
       "key": "cue",
-      "value": 34
+      "value": 35
     },
     {
       "key": "d",
@@ -262,7 +262,7 @@
     },
     {
       "key": "fortran",
-      "value": 63
+      "value": 64
     },
     {
       "key": "fsh",
@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 48
+      "value": 49
     },
     {
       "key": "koto",
@@ -550,7 +550,7 @@
     },
     {
       "key": "liquidsoap",
-      "value": 39
+      "value": 40
     },
     {
       "key": "llvm",
@@ -606,7 +606,7 @@
     },
     {
       "key": "mlir",
-      "value": 113
+      "value": 114
     },
     {
       "key": "muttrc",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 80
+      "value": 81
     },
     {
       "key": "nqc",
@@ -686,7 +686,7 @@
     },
     {
       "key": "perl",
-      "value": 53
+      "value": 54
     },
     {
       "key": "php",
@@ -922,7 +922,7 @@
     },
     {
       "key": "sql",
-      "value": 59
+      "value": 60
     },
     {
       "key": "squirrel",
@@ -994,7 +994,7 @@
     },
     {
       "key": "templ",
-      "value": 60
+      "value": 61
     },
     {
       "key": "terraform",
@@ -1162,7 +1162,7 @@
     },
     {
       "key": "powershell",
-      "value": 53
+      "value": 54
     },
     {
       "key": "rescript",
@@ -1170,7 +1170,7 @@
     },
     {
       "key": "vrl",
-      "value": 29
+      "value": 30
     },
     {
       "key": "sflog",
@@ -1206,7 +1206,7 @@
     },
     {
       "key": "superhtml",
-      "value": 38
+      "value": 39
     },
     {
       "key": "gren",
@@ -1246,7 +1246,7 @@
     },
     {
       "key": "idris",
-      "value": 2
+      "value": 3
     },
     {
       "key": "slim",
@@ -1342,7 +1342,7 @@
     },
     {
       "key": "bpftrace",
-      "value": 13
+      "value": 14
     },
     {
       "key": "jjdescription",
