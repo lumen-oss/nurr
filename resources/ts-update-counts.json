@@ -66,11 +66,11 @@
     },
     {
       "key": "bp",
-      "value": 31
+      "value": 32
     },
     {
       "key": "c",
-      "value": 49
+      "value": 50
     },
     {
       "key": "c_sharp",
@@ -514,7 +514,7 @@
     },
     {
       "key": "kotlin",
-      "value": 49
+      "value": 50
     },
     {
       "key": "koto",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 57
+      "value": 58
     },
     {
       "key": "menhir",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 81
+      "value": 82
     },
     {
       "key": "nqc",
@@ -686,7 +686,7 @@
     },
     {
       "key": "perl",
-      "value": 54
+      "value": 55
     },
     {
       "key": "php",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 67
+      "value": 68
     },
     {
       "key": "scfg",
@@ -1082,7 +1082,7 @@
     },
     {
       "key": "v",
-      "value": 56
+      "value": 57
     },
     {
       "key": "vala",
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "rescript",
-      "value": 38
+      "value": 39
     },
     {
       "key": "vrl",
@@ -1274,7 +1274,7 @@
     },
     {
       "key": "tera",
-      "value": 10
+      "value": 11
     },
     {
       "key": "blade",
@@ -1286,7 +1286,7 @@
     },
     {
       "key": "javadoc",
-      "value": 47
+      "value": 48
     },
     {
       "key": "brightscript",
@@ -1294,7 +1294,7 @@
     },
     {
       "key": "c3",
-      "value": 21
+      "value": 22
     },
     {
       "key": "groq",
@@ -1302,7 +1302,7 @@
     },
     {
       "key": "pkl",
-      "value": 23
+      "value": 24
     },
     {
       "key": "sproto",
