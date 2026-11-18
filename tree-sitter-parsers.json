@@ -183,7 +183,7 @@
     },
     {
       "install_info": {
-        "revision": "v0.23.5",
+        "revision": "v0.24.0",
         "url": "https://github.com/tree-sitter/tree-sitter-c-sharp"
       },
       "lang": "c_sharp",
@@ -2718,7 +2718,7 @@
     },
     {
       "install_info": {
-        "revision": "7a593401efb5418ffdedbe3c0e4c61c6d240166d",
+        "revision": "77eee01fa3226133e7ae49c2297de558ebb75df0",
         "url": "https://github.com/georgeharker/tree-sitter-zsh"
       },
       "lang": "zsh",

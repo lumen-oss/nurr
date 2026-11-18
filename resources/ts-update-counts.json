@@ -74,7 +74,7 @@
     },
     {
       "key": "c_sharp",
-      "value": 52
+      "value": 54
     },
     {
       "key": "cairo",
@@ -1266,7 +1266,7 @@
     },
     {
       "key": "jinja_inline",
-      "value": 21
+      "value": 22
     },
     {
       "key": "kcl",
@@ -1330,7 +1330,7 @@
     },
     {
       "key": "zsh",
-      "value": 19
+      "value": 21
     },
     {
       "key": "robots_txt",
