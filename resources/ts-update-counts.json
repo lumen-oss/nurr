@@ -226,7 +226,7 @@
     },
     {
       "key": "erlang",
-      "value": 55
+      "value": 56
     },
     {
       "key": "facility",
@@ -322,7 +322,7 @@
     },
     {
       "key": "gnuplot",
-      "value": 43
+      "value": 44
     },
     {
       "key": "go",
@@ -590,7 +590,7 @@
     },
     {
       "key": "matlab",
-      "value": 58
+      "value": 59
     },
     {
       "key": "menhir",
@@ -638,7 +638,7 @@
     },
     {
       "key": "nix",
-      "value": 83
+      "value": 84
     },
     {
       "key": "nqc",
@@ -686,15 +686,15 @@
     },
     {
       "key": "perl",
-      "value": 56
-    },
-    {
-      "key": "php",
       "value": 57
     },
     {
+      "key": "php",
+      "value": 58
+    },
+    {
       "key": "php_only",
-      "value": 61
+      "value": 62
     },
     {
       "key": "phpdoc",
@@ -746,7 +746,7 @@
     },
     {
       "key": "proto",
-      "value": 47
+      "value": 48
     },
     {
       "key": "prql",
@@ -866,7 +866,7 @@
     },
     {
       "key": "scala",
-      "value": 69
+      "value": 70
     },
     {
       "key": "scfg",
@@ -958,7 +958,7 @@
     },
     {
       "key": "swift",
-      "value": 80
+      "value": 81
     },
     {
       "key": "sxhkdrc",
@@ -970,11 +970,11 @@
     },
     {
       "key": "systemverilog",
-      "value": 54
+      "value": 55
     },
     {
       "key": "t32",
-      "value": 65
+      "value": 66
     },
     {
       "key": "tablegen",
@@ -1086,7 +1086,7 @@
     },
     {
       "key": "vala",
-      "value": 30
+      "value": 31
     },
     {
       "key": "vento",
@@ -1098,7 +1098,7 @@
     },
     {
       "key": "vhdl",
-      "value": 66
+      "value": 67
     },
     {
       "key": "vhs",
@@ -1110,7 +1110,7 @@
     },
     {
       "key": "vimdoc",
-      "value": 43
+      "value": 44
     },
     {
       "key": "vue",
@@ -1166,7 +1166,7 @@
     },
     {
       "key": "rescript",
-      "value": 39
+      "value": 40
     },
     {
       "key": "vrl",
@@ -1194,7 +1194,7 @@
     },
     {
       "key": "fsharp",
-      "value": 24
+      "value": 25
     },
     {
       "key": "ziggy",
